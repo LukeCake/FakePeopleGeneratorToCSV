@@ -26,6 +26,9 @@ yearnowint = yearnow.year
 
 #input
 counter = 0
+womancounter = 0
+mencounter = 0
+degreecounter = 0
 outputs = int(input('Kolik rodných čísel chceš generovat?: '))
 
 with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
@@ -57,11 +60,12 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
 
                         rndmsexlist = [0, 50]
                         if (random.choice(rndmsexlist)) != 0:
-                            print("\nNÁHODNÁ Žena měním RČ z " + str(rc))
+                            # print("\nNÁHODNÁ Žena měním RČ z " + str(rc))
                             rc = rc + 50000000
-                            print("na " + str(rc))
-                            print("Podmínky OK, Zapisuji ŽENU do souboru - RČ: " + str(rc))
+                            # print("na " + str(rc))
+                            # print("Podmínky OK, Zapisuji ŽENU do souboru - RČ: " + str(rc))
                             counter = counter + 1
+                            womancounter = womancounter + 1
 
                             f.write(str(rc) + ";")
 
@@ -81,27 +85,30 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
                             if 24 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
                                 probability = random.randint(1, 20)
                                 if probability <= 3:
-                                    print("tento člověk získal při pravděpodobností 15% titul")
+                                    # print("tento člověk získal při pravděpodobností 15% titul")
                                     pick_random("titulpredjmenem")
+                                    degreecounter = degreecounter + 1
                                 else:
                                     f.write(";")
                             else:
                                 f.write(";")
 
                         else:
-                            print("\nPodmínky OK, Zapisuji MUŽE  do souboru - RČ: " + str(rc))
+                            # print("\nPodmínky OK, Zapisuji MUŽE  do souboru - RČ: " + str(rc))
                             counter = counter + 1
 
                             f.write(str(rc) + ";")
 
                             pick_random("czenamesmale")
                             pick_random("czesurnamesmale")
+                            mencounter = mencounter + 1
 
                             if 24 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
                                 probability = random.randint(1, 20)
                                 if probability <= 3:
-                                    print("tento člověk získal při pravděpodobností 15% titul")
+                                    # print("tento člověk získal při pravděpodobností 15% titul")
                                     pick_random("titulpredjmenem")
+                                    degreecounter = degreecounter + 1
                                 else:
                                     f.write(";")
                             else:
@@ -124,7 +131,7 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
                         with open('lists/ulice/ulicetest.csv',newline='',  mode='r', encoding="utf-8") as file:
                             reader = csv.reader(file)
                             chosen_row = random.choice(list(reader))
-                            print(list(chosen_row))
+                            # print(list(chosen_row))
 
                             listofadress = ""
                             for ele in chosen_row:
@@ -157,4 +164,5 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
 f.close()
 
 print("Celkem vygenerováno RČ: " + str(counter))
-print("Zápis proběhl do soubru ./seznamRc.txt")
+print("žen: " + str(womancounter) + " z " + str(outputs) + ", mužů: " + str(mencounter) + " z " + str(outputs) + ", osob s titulem: " + str(degreecounter) + " z " + str(outputs))
+print("Zápis proběhl do soubru ./fakePeople.csv")
