@@ -1,4 +1,4 @@
-﻿name;Název ulice;Kód Obce;Název Obce;Kód Okresu;Název Okresu
+﻿﻿Kód;Název ulice;Kód Obce;Název Obce;Kód Okresu;Název Okresu
 20842;Adamovská;582786;Brno;3702;Brno-město
 20851;Absolonova;582786;Brno;3702;Brno-město
 20869;Akátová;582786;Brno;3702;Brno-město
@@ -28,3 +28,1876 @@
 21105;Barvičova;582786;Brno;3702;Brno-město
 21113;Barvy;582786;Brno;3702;Brno-město
 21121;Bašného;582786;Brno;3702;Brno-město
+21130;Bašty;582786;Brno;3702;Brno-město
+21148;Bayerova;582786;Brno;3702;Brno-město
+21156;Bažinka;582786;Brno;3702;Brno-město
+21164;Bednářova;582786;Brno;3702;Brno-město
+21172;Bedřichovická;582786;Brno;3702;Brno-město
+21181;Beethovenova;582786;Brno;3702;Brno-město
+21199;Bellova;582786;Brno;3702;Brno-město
+21202;Babická;582786;Brno;3702;Brno-město
+21211;Bendlova;582786;Brno;3702;Brno-město
+21229;Berkova;582786;Brno;3702;Brno-město
+21237;Bernáčkova;582786;Brno;3702;Brno-město
+21245;Besední;582786;Brno;3702;Brno-město
+21253;Bezovka;582786;Brno;3702;Brno-město
+21261;Bezručova;582786;Brno;3702;Brno-město
+21270;Běhounská;582786;Brno;3702;Brno-město
+21288;Bakalovo nábřeží;582786;Brno;3702;Brno-město
+21296;Bělidla;582786;Brno;3702;Brno-město
+21300;Bělohorská;582786;Brno;3702;Brno-město
+21318;Běloruská;582786;Brno;3702;Brno-město
+21326;Běly Pažoutové;582786;Brno;3702;Brno-město
+21334;Bieblova;582786;Brno;3702;Brno-město
+21342;Biskupská;582786;Brno;3702;Brno-město
+21351;Bílovická;582786;Brno;3702;Brno-město
+21369;Bílého;582786;Brno;3702;Brno-město
+21377;Blahoslavova;582786;Brno;3702;Brno-město
+21385;Blanenská;582786;Brno;3702;Brno-město
+21393;Blatnická;582786;Brno;3702;Brno-město
+21407;Blatného;582786;Brno;3702;Brno-město
+21415;Blažkova;582786;Brno;3702;Brno-město
+21431;Blodkova;582786;Brno;3702;Brno-město
+21440;Blümlova;582786;Brno;3702;Brno-město
+21458;Boční;582786;Brno;3702;Brno-město
+21466;Bodlákova;582786;Brno;3702;Brno-město
+21474;Bohatcova;582786;Brno;3702;Brno-město
+21482;Björnsenův sad;582786;Brno;3702;Brno-město
+21491;Bohunická;582786;Brno;3702;Brno-město
+21504;Bohuňova;582786;Brno;3702;Brno-město
+21512;Bohuslava Martinů;582786;Brno;3702;Brno-město
+21521;Bolzanova;582786;Brno;3702;Brno-město
+21539;Borky;582786;Brno;3702;Brno-město
+21547;Borodinova;582786;Brno;3702;Brno-město
+21555;Borová;582786;Brno;3702;Brno-město
+21563;Bořetická;582786;Brno;3702;Brno-město
+21571;Bořivojova;582786;Brno;3702;Brno-město
+21580;Boří;582786;Brno;3702;Brno-město
+21598;Boskovická;582786;Brno;3702;Brno-město
+21601;Bosonožská;582786;Brno;3702;Brno-město
+21610;Botanická;582786;Brno;3702;Brno-město
+21628;Blatouchová;582786;Brno;3702;Brno-město
+21636;Boženy Antonínové;582786;Brno;3702;Brno-město
+21644;Boženy Němcové;582786;Brno;3702;Brno-město
+21652;Božetěchova;582786;Brno;3702;Brno-město
+21661;Branka;582786;Brno;3702;Brno-město
+21679;Boettingrova;582786;Brno;3702;Brno-město
+21687;Bratislavská;582786;Brno;3702;Brno-město
+21695;bratří Čapků;582786;Brno;3702;Brno-město
+21709;Kotlanova;582786;Brno;3702;Brno-město
+21717;bratří Křičků;582786;Brno;3702;Brno-město
+21725;bratří Mrštíků;582786;Brno;3702;Brno-město
+21733;bratří Pelíšků;582786;Brno;3702;Brno-město
+21741;bratří Žůrků;582786;Brno;3702;Brno-město
+21750;Bráfova;582786;Brno;3702;Brno-město
+21768;Brechtova;582786;Brno;3702;Brno-město
+21776;Breitcetlova;582786;Brno;3702;Brno-město
+21784;Broskvoňová;582786;Brno;3702;Brno-město
+21792;Borůvková;582786;Brno;3702;Brno-město
+21806;Bosonožské náměstí;582786;Brno;3702;Brno-město
+21814;Brožíkova;582786;Brno;3702;Brno-město
+21822;Břeclavská;582786;Brno;3702;Brno-město
+21831;Břehová;582786;Brno;3702;Brno-město
+21849;Břenkova;582786;Brno;3702;Brno-město
+21857;Břetislavova;582786;Brno;3702;Brno-město
+21865;Březinova;582786;Brno;3702;Brno-město
+21873;Březová;582786;Brno;3702;Brno-město
+21881;Bubeníčkova;582786;Brno;3702;Brno-město
+21890;Buchtova;582786;Brno;3702;Brno-město
+21903;Bučovická;582786;Brno;3702;Brno-město
+21911;Budínská;582786;Brno;3702;Brno-město
+21920;Belcrediho;582786;Brno;3702;Brno-město
+21938;Budovcova;582786;Brno;3702;Brno-město
+21946;Buková;582786;Brno;3702;Brno-město
+21954;Bukovského;582786;Brno;3702;Brno-město
+21962;Bulharská;582786;Brno;3702;Brno-město
+21971;Burešova;582786;Brno;3702;Brno-město
+21989;Buzkova;582786;Brno;3702;Brno-město
+21997;Burianovo náměstí;582786;Brno;3702;Brno-město
+22004;Bystrcká;582786;Brno;3702;Brno-město
+22012;Bystřinova;582786;Brno;3702;Brno-město
+22021;Bzenecká;582786;Brno;3702;Brno-město
+22039;Böhmova;582786;Brno;3702;Brno-město
+22047;Cacovice;582786;Brno;3702;Brno-město
+22055;Cacovická;582786;Brno;3702;Brno-město
+22063;Cejl;582786;Brno;3702;Brno-město
+22071;Celní;582786;Brno;3702;Brno-město
+22080;Chalabalova;582786;Brno;3702;Brno-město
+22098;Chaloupkova;582786;Brno;3702;Brno-město
+22101;Černíkova;582786;Brno;3702;Brno-město
+22110;Chaloupky;582786;Brno;3702;Brno-město
+22128;Charbulova;582786;Brno;3702;Brno-město
+22136;Charvatská;582786;Brno;3702;Brno-město
+22144;Davídkova;582786;Brno;3702;Brno-město
+22152;Chelčického;582786;Brno;3702;Brno-město
+22161;Dlouhé vrchy;582786;Brno;3702;Brno-město
+22179;Chládkova;582786;Brno;3702;Brno-město
+22187;Chleborádova;582786;Brno;3702;Brno-město
+22195;Chlubnova;582786;Brno;3702;Brno-město
+22209;Chlumy;582786;Brno;3702;Brno-město
+22217;Chlupova;582786;Brno;3702;Brno-město
+22225;Chmelnice;582786;Brno;3702;Brno-město
+22233;Chodská;582786;Brno;3702;Brno-město
+22241;Chopinova;582786;Brno;3702;Brno-město
+22250;Chrlická;582786;Brno;3702;Brno-město
+22268;Chrpová;582786;Brno;3702;Brno-město
+22276;Dolní;582786;Brno;3702;Brno-město
+22284;Chudobova;582786;Brno;3702;Brno-město
+22292;Churého;582786;Brno;3702;Brno-město
+22306;Chytilova;582786;Brno;3702;Brno-město
+22314;Cihlářská;582786;Brno;3702;Brno-město
+22322;Cimburkova;582786;Brno;3702;Brno-město
+22331;Colova;582786;Brno;3702;Brno-město
+22349;Cornovova;582786;Brno;3702;Brno-město
+22357;Ctiradova;582786;Brno;3702;Brno-město
+22365;Cupákova;582786;Brno;3702;Brno-město
+22373;Cyrilská;582786;Brno;3702;Brno-město
+22381;Čajkovského;582786;Brno;3702;Brno-město
+22390;Čápkova;582786;Brno;3702;Brno-město
+22403;Čechyňská;582786;Brno;3702;Brno-město
+22411;Čejkova;582786;Brno;3702;Brno-město
+22420;Čejkovická;582786;Brno;3702;Brno-město
+22438;Čelakovského;582786;Brno;3702;Brno-město
+22446;Čeňka Růžičky;582786;Brno;3702;Brno-město
+22454;Čermákova;582786;Brno;3702;Brno-město
+22462;Černá;582786;Brno;3702;Brno-město
+22471;Černohorská;582786;Brno;3702;Brno-město
+22489;Černopolní;582786;Brno;3702;Brno-město
+22497;Černovická;582786;Brno;3702;Brno-město
+22501;Černovičky;582786;Brno;3702;Brno-město
+22519;Černozemní;582786;Brno;3702;Brno-město
+22527;Černého;582786;Brno;3702;Brno-město
+22535;Červený kopec;582786;Brno;3702;Brno-město
+22543;Červinkova;582786;Brno;3702;Brno-město
+22551;Česká;582786;Brno;3702;Brno-město
+22560;Čichnova;582786;Brno;3702;Brno-město
+22578;Čtvery hony;582786;Brno;3702;Brno-město
+22586;Čtvrtě;582786;Brno;3702;Brno-město
+22594;Dačického;582786;Brno;3702;Brno-město
+22608;Dalimilova;582786;Brno;3702;Brno-město
+22616;Demlova;582786;Brno;3702;Brno-město
+22624;Desátková;582786;Brno;3702;Brno-město
+22632;Deštná;582786;Brno;3702;Brno-město
+22641;Dědická;582786;Brno;3702;Brno-město
+22659;Dělnická;582786;Brno;3702;Brno-město
+22667;Dillingerova;582786;Brno;3702;Brno-město
+22675;Štefánikova;582786;Brno;3702;Brno-město
+22683;Divadelní;582786;Brno;3702;Brno-město
+22691;Divišova;582786;Brno;3702;Brno-město
+22705;Díly;582786;Brno;3702;Brno-město
+22713;Dlážděná;582786;Brno;3702;Brno-město
+22721;Dlouhé hony;582786;Brno;3702;Brno-město
+22730;Dobrovského;582786;Brno;3702;Brno-město
+22748;Dohnalova;582786;Brno;3702;Brno-město
+22756;Prumperk;582786;Brno;3702;Brno-město
+22764;Doležalova;582786;Brno;3702;Brno-město
+22772;Dolnice;582786;Brno;3702;Brno-město
+22781;Dolnopolní;582786;Brno;3702;Brno-město
+22799;Domažlická;582786;Brno;3702;Brno-město
+22802;Dominikánská;582786;Brno;3702;Brno-město
+22811;Dornych;582786;Brno;3702;Brno-město
+22829;Dominikánské náměstí;582786;Brno;3702;Brno-město
+22837;Dostálova;582786;Brno;3702;Brno-město
+22845;Došlíkova;582786;Brno;3702;Brno-město
+22853;Doubí;582786;Brno;3702;Brno-město
+22861;Drápelova;582786;Brno;3702;Brno-město
+22870;Drdy;582786;Brno;3702;Brno-město
+22888;Ernsta Macha;582786;Brno;3702;Brno-město
+22896;Drnovická;582786;Brno;3702;Brno-město
+22900;Drobného;582786;Brno;3702;Brno-město
+22918;Drozdí;582786;Brno;3702;Brno-město
+22926;Družstevní;582786;Brno;3702;Brno-město
+22934;Dřevařská;582786;Brno;3702;Brno-město
+22942;Dřínová;582786;Brno;3702;Brno-město
+22951;Dubová;582786;Brno;3702;Brno-město
+22969;Dudíkova;582786;Brno;3702;Brno-město
+22977;Dulánek;582786;Brno;3702;Brno-město
+22985;Dufkovo nábřeží;582786;Brno;3702;Brno-město
+22993;Duhová;582786;Brno;3702;Brno-město
+23001;Dunajevského;582786;Brno;3702;Brno-město
+23019;Durďákova;582786;Brno;3702;Brno-město
+23027;Dvorecká;582786;Brno;3702;Brno-město
+23035;Dvorského;582786;Brno;3702;Brno-město
+23043;Dvořákova;582786;Brno;3702;Brno-město
+23051;Dvořiště;582786;Brno;3702;Brno-město
+23060;Dykova;582786;Brno;3702;Brno-město
+23078;Dukelská třída;582786;Brno;3702;Brno-město
+23086;Eimova;582786;Brno;3702;Brno-město
+23094;Eleonory Voračické;582786;Brno;3702;Brno-město
+23108;Elgartova;582786;Brno;3702;Brno-město
+23116;Eliášova;582786;Brno;3702;Brno-město
+23124;Elišky Krásnohorské;582786;Brno;3702;Brno-město
+23132;Elišky Machové;582786;Brno;3702;Brno-město
+23141;Elišky Přemyslovny;582786;Brno;3702;Brno-město
+23159;Hvězdová;582786;Brno;3702;Brno-město
+23167;Erbenova;582786;Brno;3702;Brno-město
+23175;Fanderlíkova;582786;Brno;3702;Brno-město
+23183;Dvůr;582786;Brno;3702;Brno-město
+23191;Faměrovo náměstí;582786;Brno;3702;Brno-město
+23205;Farní;582786;Brno;3702;Brno-město
+23213;Farského;582786;Brno;3702;Brno-město
+23221;Faulhabrova;582786;Brno;3702;Brno-město
+23230;Ferrerova;582786;Brno;3702;Brno-město
+23248;Fantova;582786;Brno;3702;Brno-město
+23256;Fibichova;582786;Brno;3702;Brno-město
+23264;Filipínského;582786;Brno;3702;Brno-město
+23272;Filipova;582786;Brno;3702;Brno-město
+23281;Filkukova;582786;Brno;3702;Brno-město
+23299;Fillova;582786;Brno;3702;Brno-město
+23302;Fišova;582786;Brno;3702;Brno-město
+23311;Fleischnerova;582786;Brno;3702;Brno-město
+23329;Foerstrova;582786;Brno;3702;Brno-město
+23337;Fialová;582786;Brno;3702;Brno-město
+23345;Foltýnova;582786;Brno;3702;Brno-město
+23353;Foustkova;582786;Brno;3702;Brno-město
+23361;Francouzská;582786;Brno;3702;Brno-město
+23370;Františkánská;582786;Brno;3702;Brno-město
+23388;Františky Skaunicové;582786;Brno;3702;Brno-město
+23396;Františky Stránecké;582786;Brno;3702;Brno-město
+23400;Franzova;582786;Brno;3702;Brno-město
+23418;Fričova;582786;Brno;3702;Brno-město
+23426;Skutilova;582786;Brno;3702;Brno-město
+23434;Fučíkova;582786;Brno;3702;Brno-město
+23442;Fügnerova;582786;Brno;3702;Brno-město
+23451;Gabriely Preissové;582786;Brno;3702;Brno-město
+23469;Gajdošova;582786;Brno;3702;Brno-město
+23477;Gallašova;582786;Brno;3702;Brno-město
+23485;Florianova;582786;Brno;3702;Brno-město
+23493;Gargulákova;582786;Brno;3702;Brno-město
+23507;Gebauerova;582786;Brno;3702;Brno-město
+23515;Geislerova;582786;Brno;3702;Brno-město
+23523;Gellnerova;582786;Brno;3702;Brno-město
+23531;Glinkova;582786;Brno;3702;Brno-město
+23540;Glocova;582786;Brno;3702;Brno-město
+23558;Gogolova;582786;Brno;3702;Brno-město
+23566;Gorazdova;582786;Brno;3702;Brno-město
+23574;Gorkého;582786;Brno;3702;Brno-město
+23582;Grmelova;582786;Brno;3702;Brno-město
+23591;Galandauerova;582786;Brno;3702;Brno-město
+23604;Grohova;582786;Brno;3702;Brno-město
+23612;Gromešova;582786;Brno;3702;Brno-město
+23621;Gruzínská;582786;Brno;3702;Brno-město
+23639;Haasova;582786;Brno;3702;Brno-město
+23647;Habrová;582786;Brno;3702;Brno-město
+23655;Habřinova;582786;Brno;3702;Brno-město
+23663;Ibsenova;582786;Brno;3702;Brno-město
+23671;Hamry;582786;Brno;3702;Brno-město
+23680;Goldova;582786;Brno;3702;Brno-město
+23698;Hanácká;582786;Brno;3702;Brno-město
+23701;Hansmannova;582786;Brno;3702;Brno-město
+23710;Hapalova;582786;Brno;3702;Brno-město
+23728;Haraštova;582786;Brno;3702;Brno-město
+23736;Osová;582786;Brno;3702;Brno-město
+23744;Hasičská;582786;Brno;3702;Brno-město
+23752;Haškova;582786;Brno;3702;Brno-město
+23761;Hatě;582786;Brno;3702;Brno-město
+23779;Havelkova;582786;Brno;3702;Brno-město
+23787;Halasovo náměstí;582786;Brno;3702;Brno-město
+23795;Havlenova;582786;Brno;3702;Brno-město
+23809;Havlíčkova;582786;Brno;3702;Brno-město
+23817;Havraní;582786;Brno;3702;Brno-město
+23825;Havránkova;582786;Brno;3702;Brno-město
+23833;Hádecká;582786;Brno;3702;Brno-město
+23841;Hády;582786;Brno;3702;Brno-město
+23850;Hájkova;582786;Brno;3702;Brno-město
+23868;Hálkova;582786;Brno;3702;Brno-město
+23876;Heinrichova;582786;Brno;3702;Brno-město
+23884;Helceletova;582786;Brno;3702;Brno-město
+23892;Helenčina;582786;Brno;3702;Brno-město
+23906;Heleny Malířové;582786;Brno;3702;Brno-město
+23914;Helfertova;582786;Brno;3702;Brno-město
+23922;Herbenova;582786;Brno;3702;Brno-město
+23931;Herčíkova;582786;Brno;3702;Brno-město
+23949;Heydukova;582786;Brno;3702;Brno-město
+23957;Havláskova;582786;Brno;3702;Brno-město
+23965;Heyrovského;582786;Brno;3702;Brno-město
+23973;Hilleho;582786;Brno;3702;Brno-město
+23981;Hladíkova;582786;Brno;3702;Brno-město
+23990;Hlaváčkova;582786;Brno;3702;Brno-město
+24007;Hlaváčova;582786;Brno;3702;Brno-město
+24015;Hlavní;582786;Brno;3702;Brno-město
+24023;Hlávkova;582786;Brno;3702;Brno-město
+24031;Hliník;582786;Brno;3702;Brno-město
+24040;Hlinky;582786;Brno;3702;Brno-město
+24058;Hlídka;582786;Brno;3702;Brno-město
+24066;Hlohová;582786;Brno;3702;Brno-město
+24074;Hluboká;582786;Brno;3702;Brno-město
+24082;Hněvkovského;582786;Brno;3702;Brno-město
+24091;Hoblíkova;582786;Brno;3702;Brno-město
+24104;Hochmanova;582786;Brno;3702;Brno-město
+24112;Hodonínská;582786;Brno;3702;Brno-město
+24121;Holásecká;582786;Brno;3702;Brno-město
+24139;Hermannova;582786;Brno;3702;Brno-město
+24147;Holubova;582786;Brno;3702;Brno-město
+24155;Holzova;582786;Brno;3702;Brno-město
+24163;Hoppova;582786;Brno;3702;Brno-město
+24171;Horákova;582786;Brno;3702;Brno-město
+24180;Högrova;582786;Brno;3702;Brno-město
+24198;Horákovská;582786;Brno;3702;Brno-město
+24201;Horní;582786;Brno;3702;Brno-město
+24210;Horníkova;582786;Brno;3702;Brno-město
+24228;Horova;582786;Brno;3702;Brno-město
+24236;Horská;582786;Brno;3702;Brno-město
+24244;Horymírova;582786;Brno;3702;Brno-město
+24252;Hostinského;582786;Brno;3702;Brno-město
+24261;Hoštická;582786;Brno;3702;Brno-město
+24279;Hradiska;582786;Brno;3702;Brno-město
+24287;Horácké náměstí;582786;Brno;3702;Brno-město
+24295;Hraničky;582786;Brno;3702;Brno-město
+24309;Hrdličkova;582786;Brno;3702;Brno-město
+24317;Hrad Veveří;582786;Brno;3702;Brno-město
+24325;Hrnčířská;582786;Brno;3702;Brno-město
+24333;Hromádkova;582786;Brno;3702;Brno-město
+24341;Hroznová;582786;Brno;3702;Brno-město
+24350;Hrozňatova;582786;Brno;3702;Brno-město
+24368;Hrubinky;582786;Brno;3702;Brno-město
+24376;Hrubého;582786;Brno;3702;Brno-město
+24384;Hrušňová;582786;Brno;3702;Brno-město
+24392;Hřbitovní;582786;Brno;3702;Brno-město
+24406;Hubrova;582786;Brno;3702;Brno-město
+24414;Hudcova;582786;Brno;3702;Brno-město
+24422;Hujíčkova;582786;Brno;3702;Brno-město
+24431;Humenná;582786;Brno;3702;Brno-město
+24449;Husitská;582786;Brno;3702;Brno-město
+24457;Husova;582786;Brno;3702;Brno-město
+24465;Husovická;582786;Brno;3702;Brno-město
+24473;Hutařova;582786;Brno;3702;Brno-město
+24481;Húskova;582786;Brno;3702;Brno-město
+24490;Hvězdárenská;582786;Brno;3702;Brno-město
+24503;Hviezdoslavova;582786;Brno;3702;Brno-město
+24511;Hybešova;582786;Brno;3702;Brno-město
+24520;Hvozdíková;582786;Brno;3702;Brno-město
+24538;Irkutská;582786;Brno;3702;Brno-město
+24546;Jablonského;582786;Brno;3702;Brno-město
+24554;Chaloupeckého náměstí;582786;Brno;3702;Brno-město
+24562;Jabloňová;582786;Brno;3702;Brno-město
+24571;Jahodová;582786;Brno;3702;Brno-město
+24589;Jakuba Obrovského;582786;Brno;3702;Brno-město
+24597;Jakubská;582786;Brno;3702;Brno-město
+24601;Jamborova;582786;Brno;3702;Brno-město
+24619;Chrlické náměstí;582786;Brno;3702;Brno-město
+24627;Jana Babáka;582786;Brno;3702;Brno-město
+24635;Jana Nečase;582786;Brno;3702;Brno-město
+24643;Jana Svobody;582786;Brno;3702;Brno-město
+24651;Jana Uhra;582786;Brno;3702;Brno-město
+24660;Jandáskova;582786;Brno;3702;Brno-město
+24678;Ivanovické náměstí;582786;Brno;3702;Brno-město
+24686;Janouškova;582786;Brno;3702;Brno-město
+24694;Jarní;582786;Brno;3702;Brno-město
+24708;Jasanová;582786;Brno;3702;Brno-město
+24716;Jaselská;582786;Brno;3702;Brno-město
+24724;Jasmínová;582786;Brno;3702;Brno-město
+24732;Jasná;582786;Brno;3702;Brno-město
+24741;Jateční;582786;Brno;3702;Brno-město
+24759;Javorová;582786;Brno;3702;Brno-město
+24767;Jámy;582786;Brno;3702;Brno-město
+24775;Jánošíkova;582786;Brno;3702;Brno-město
+24783;Jánská;582786;Brno;3702;Brno-město
+24791;Ječná;582786;Brno;3702;Brno-město
+24805;Jedlová;582786;Brno;3702;Brno-město
+24813;Jehnická;582786;Brno;3702;Brno-město
+24821;Jelínkova;582786;Brno;3702;Brno-město
+24830;Jemelkova;582786;Brno;3702;Brno-město
+24848;Jeneweinova;582786;Brno;3702;Brno-město
+24856;Jeníčkova;582786;Brno;3702;Brno-město
+24864;Jeronýmova;582786;Brno;3702;Brno-město
+24872;Jeřabinová;582786;Brno;3702;Brno-město
+24881;Jeřábkova;582786;Brno;3702;Brno-město
+24899;Jezerní;582786;Brno;3702;Brno-město
+24902;Jezuitská;582786;Brno;3702;Brno-město
+24911;Ježkova;582786;Brno;3702;Brno-město
+24929;Jihlavská;582786;Brno;3702;Brno-město
+24937;Jilemnického;582786;Brno;3702;Brno-město
+24945;Jakubské náměstí;582786;Brno;3702;Brno-město
+24953;Jindřichova;582786;Brno;3702;Brno-město
+24961;Jiránkova;582786;Brno;3702;Brno-město
+24970;Jiráskova;582786;Brno;3702;Brno-město
+24988;Jircháře;582786;Brno;3702;Brno-město
+24996;Jiřinová;582786;Brno;3702;Brno-město
+25003;Jiříkovského;582786;Brno;3702;Brno-město
+25011;Jílkova;582786;Brno;3702;Brno-město
+25020;Janáčkovo náměstí;582786;Brno;3702;Brno-město
+25038;Jílová;582786;Brno;3702;Brno-město
+25046;Jírova;582786;Brno;3702;Brno-město
+25054;Jírovcova;582786;Brno;3702;Brno-město
+25062;Josefská;582786;Brno;3702;Brno-město
+25071;Josefy Faimonové;582786;Brno;3702;Brno-město
+25089;Joštova;582786;Brno;3702;Brno-město
+25097;Jelení;582786;Brno;3702;Brno-město
+25101;Jožky Jabůrkové;582786;Brno;3702;Brno-město
+25119;Jubilejní;582786;Brno;3702;Brno-město
+25127;Jugoslávská;582786;Brno;3702;Brno-město
+25135;Jundrovská;582786;Brno;3702;Brno-město
+25143;Jungmannova;582786;Brno;3702;Brno-město
+25151;Souhrady;582786;Brno;3702;Brno-město
+25160;Jurkovičova;582786;Brno;3702;Brno-město
+25178;K dálnici;582786;Brno;3702;Brno-město
+25186;K lázinkám;582786;Brno;3702;Brno-město
+25194;Kabátníkova;582786;Brno;3702;Brno-město
+25208;Kachlíkova;582786;Brno;3702;Brno-město
+25216;Kainarova;582786;Brno;3702;Brno-město
+25224;Kaleckého;582786;Brno;3702;Brno-město
+25232;Labská;582786;Brno;3702;Brno-město
+25241;Kalinová;582786;Brno;3702;Brno-město
+25259;Kallabova;582786;Brno;3702;Brno-město
+25267;Kaloudova;582786;Brno;3702;Brno-město
+25275;Kalvodova;582786;Brno;3702;Brno-město
+25283;Kamanova;582786;Brno;3702;Brno-město
+25291;Kamenačky;582786;Brno;3702;Brno-město
+25305;Kameníčkova;582786;Brno;3702;Brno-město
+25313;Kamenná;582786;Brno;3702;Brno-město
+25321;Kamenná čtvrť;582786;Brno;3702;Brno-město
+25330;Kamenomlýnská;582786;Brno;3702;Brno-město
+25348;Jihomoravské náměstí;582786;Brno;3702;Brno-město
+25356;Kamínky;582786;Brno;3702;Brno-město
+25364;Kampelíkova;582786;Brno;3702;Brno-město
+25372;Kaplanova;582786;Brno;3702;Brno-město
+25381;Havlišova;582786;Brno;3702;Brno-město
+25399;Karásek;582786;Brno;3702;Brno-město
+25402;Jižní náměstí;582786;Brno;3702;Brno-město
+25411;Karkulínova;582786;Brno;3702;Brno-město
+25429;Karlova;582786;Brno;3702;Brno-město
+25437;Elplova;582786;Brno;3702;Brno-město
+25445;Karolíny Světlé;582786;Brno;3702;Brno-město
+25453;Kartouzská;582786;Brno;3702;Brno-město
+25461;Kaštanová;582786;Brno;3702;Brno-město
+25470;Kárníkova;582786;Brno;3702;Brno-město
+25488;Kejbaly;582786;Brno;3702;Brno-město
+25496;Juliánovské náměstí;582786;Brno;3702;Brno-město
+25500;Dunajská;582786;Brno;3702;Brno-město
+25518;Kapucínské náměstí;582786;Brno;3702;Brno-město
+25526;Kladivova;582786;Brno;3702;Brno-město
+25534;Klajdovská;582786;Brno;3702;Brno-město
+25542;Klatovská;582786;Brno;3702;Brno-město
+25551;Klácelova;582786;Brno;3702;Brno-město
+25569;Klášterského;582786;Brno;3702;Brno-město
+25577;Klecandova;582786;Brno;3702;Brno-město
+25585;Kleštínek;582786;Brno;3702;Brno-město
+25593;Klicperova;582786;Brno;3702;Brno-město
+25607;Klidná;582786;Brno;3702;Brno-město
+25615;Zábrdovická;582786;Brno;3702;Brno-město
+25623;Klimešova;582786;Brno;3702;Brno-město
+25631;Klíčova;582786;Brno;3702;Brno-město
+25640;Klímova;582786;Brno;3702;Brno-město
+25658;Klíny;582786;Brno;3702;Brno-město
+25666;Klobásova;582786;Brno;3702;Brno-město
+25674;Klobouček;582786;Brno;3702;Brno-město
+25682;Kluchova;582786;Brno;3702;Brno-město
+25691;Klusáčkova;582786;Brno;3702;Brno-město
+25704;Kmochova;582786;Brno;3702;Brno-město
+25712;Kneslova;582786;Brno;3702;Brno-město
+25721;Kniesova;582786;Brno;3702;Brno-město
+25739;Kobližná;582786;Brno;3702;Brno-město
+25747;Kociánka;582786;Brno;3702;Brno-město
+25755;Karáskovo náměstí;582786;Brno;3702;Brno-město
+25763;Kocourkova;582786;Brno;3702;Brno-město
+25771;Kohoutova;582786;Brno;3702;Brno-město
+25780;Kohoutovická;582786;Brno;3702;Brno-město
+25798;Kolaříkova;582786;Brno;3702;Brno-město
+25801;Koláčkova;582786;Brno;3702;Brno-město
+25810;Kolejní;582786;Brno;3702;Brno-město
+25828;Koliště;582786;Brno;3702;Brno-město
+25836;Kolískova;582786;Brno;3702;Brno-město
+25844;Kollárova;582786;Brno;3702;Brno-město
+25852;U pošty;582786;Brno;3702;Brno-město
+25861;Kepákova;582786;Brno;3702;Brno-město
+25879;Komárovská;582786;Brno;3702;Brno-město
+25887;Komínská;582786;Brno;3702;Brno-město
+25895;Ke Svratce;582786;Brno;3702;Brno-město
+25909;Kikrleho;582786;Brno;3702;Brno-město
+25917;Komprdova;582786;Brno;3702;Brno-město
+25925;Konečného;582786;Brno;3702;Brno-město
+25933;Konopná;582786;Brno;3702;Brno-město
+25941;Kobylín;582786;Brno;3702;Brno-město
+25950;Komárovské nábřeží;582786;Brno;3702;Brno-město
+25968;Konradova;582786;Brno;3702;Brno-město
+25976;Kopaniny;582786;Brno;3702;Brno-město
+25984;Kopečná;582786;Brno;3702;Brno-město
+25992;Korejská;582786;Brno;3702;Brno-město
+26000;Valašská;582786;Brno;3702;Brno-město
+26018;Kořenského;582786;Brno;3702;Brno-město
+26026;Kosatcová;582786;Brno;3702;Brno-město
+26034;Komenského náměstí;582786;Brno;3702;Brno-město
+26042;Kosíkova;582786;Brno;3702;Brno-město
+26051;Kosmákova;582786;Brno;3702;Brno-město
+26069;Kostelíček;582786;Brno;3702;Brno-město
+26077;Kostelní zmola;582786;Brno;3702;Brno-město
+26085;Košinova;582786;Brno;3702;Brno-město
+26093;Košťálová;582786;Brno;3702;Brno-město
+26107;Košuličova;582786;Brno;3702;Brno-město
+26115;Kotěrova;582786;Brno;3702;Brno-město
+26123;Kotkova;582786;Brno;3702;Brno-město
+26131;Kotlářská;582786;Brno;3702;Brno-město
+26140;Kotulánova;582786;Brno;3702;Brno-město
+26158;Kounicova;582786;Brno;3702;Brno-město
+26166;Koutného;582786;Brno;3702;Brno-město
+26174;Kouty;582786;Brno;3702;Brno-město
+26182;Kovařovicova;582786;Brno;3702;Brno-město
+26191;Kovácká;582786;Brno;3702;Brno-město
+26204;Kovárenská;582786;Brno;3702;Brno-město
+26212;Kovářská;582786;Brno;3702;Brno-město
+26221;Kozákova;582786;Brno;3702;Brno-město
+26239;Kozinova;582786;Brno;3702;Brno-město
+26247;Kozí;582786;Brno;3702;Brno-město
+26255;Koželužská;582786;Brno;3702;Brno-město
+26263;Krajní;582786;Brno;3702;Brno-město
+26271;Krameriova;582786;Brno;3702;Brno-město
+26280;Krasová;582786;Brno;3702;Brno-město
+26298;Kratina;582786;Brno;3702;Brno-město
+26301;Krausova;582786;Brno;3702;Brno-město
+26310;Kraví hora;582786;Brno;3702;Brno-město
+26328;Králova;582786;Brno;3702;Brno-město
+26336;Královka;582786;Brno;3702;Brno-město
+26344;Královopolská;582786;Brno;3702;Brno-město
+26352;Krásného;582786;Brno;3702;Brno-město
+26361;Krátká;582786;Brno;3702;Brno-město
+26379;Krejčího;582786;Brno;3702;Brno-město
+26387;Kremličkova;582786;Brno;3702;Brno-město
+26395;Kristenova;582786;Brno;3702;Brno-město
+26409;Kroftova;582786;Brno;3702;Brno-město
+26417;Konečného náměstí;582786;Brno;3702;Brno-město
+26425;Krokova;582786;Brno;3702;Brno-město
+26433;Kroměřížská;582786;Brno;3702;Brno-město
+26441;Krondlova;582786;Brno;3702;Brno-město
+26450;Kronova;582786;Brno;3702;Brno-město
+26468;Kroupova;582786;Brno;3702;Brno-město
+26476;Krymská;582786;Brno;3702;Brno-město
+26484;Křehlíkova;582786;Brno;3702;Brno-město
+26492;Křenová;582786;Brno;3702;Brno-město
+26506;Křivánky;582786;Brno;3702;Brno-město
+26514;Koniklecová;582786;Brno;3702;Brno-město
+26522;Křižíkova;582786;Brno;3702;Brno-město
+26531;Konopiska;582786;Brno;3702;Brno-město
+26549;Křížkovského;582786;Brno;3702;Brno-město
+26557;Křídlovická;582786;Brno;3702;Brno-město
+26565;Křížová;582786;Brno;3702;Brno-město
+26573;Křtinská;582786;Brno;3702;Brno-město
+26581;Kšírova;582786;Brno;3702;Brno-město
+26590;Kubánská;582786;Brno;3702;Brno-město
+26603;Kubelíkova;582786;Brno;3702;Brno-město
+26611;Kubíčkova;582786;Brno;3702;Brno-město
+26620;Kubíkova;582786;Brno;3702;Brno-město
+26638;Kubova;582786;Brno;3702;Brno-město
+26646;Kučerova;582786;Brno;3702;Brno-město
+26654;Kudelova;582786;Brno;3702;Brno-město
+26662;Kudrnova;582786;Brno;3702;Brno-město
+26671;Oderská;582786;Brno;3702;Brno-město
+26689;Kuklenská;582786;Brno;3702;Brno-město
+26697;Kuldova;582786;Brno;3702;Brno-město
+26701;Kulkova;582786;Brno;3702;Brno-město
+26719;Kunešova;582786;Brno;3702;Brno-město
+26727;Kunštátská;582786;Brno;3702;Brno-město
+26735;Kunzova;582786;Brno;3702;Brno-město
+26743;Kupkova;582786;Brno;3702;Brno-město
+26751;Kurská;582786;Brno;3702;Brno-město
+26760;Kuršova;582786;Brno;3702;Brno-město
+26778;Kuřimská;582786;Brno;3702;Brno-město
+26786;Kvapilova;582786;Brno;3702;Brno-město
+26794;Květinářská;582786;Brno;3702;Brno-město
+26808;Květná;582786;Brno;3702;Brno-město
+26816;Kyjevská;582786;Brno;3702;Brno-město
+26824;Kytnerova;582786;Brno;3702;Brno-město
+26832;Körnerova;582786;Brno;3702;Brno-město
+26841;Lacinova;582786;Brno;3702;Brno-město
+26859;Ladova;582786;Brno;3702;Brno-město
+26867;Langrova;582786;Brno;3702;Brno-město
+26875;Laštůvkova;582786;Brno;3702;Brno-město
+26883;Lazaretní;582786;Brno;3702;Brno-město
+26891;Lány;582786;Brno;3702;Brno-město
+26905;Ledárenská;582786;Brno;3702;Brno-město
+26913;Leitnerova;582786;Brno;3702;Brno-město
+26921;Lelekovická;582786;Brno;3702;Brno-město
+26930;Lelkova;582786;Brno;3702;Brno-město
+26948;Hradecká;582786;Brno;3702;Brno-město
+26956;Lerchova;582786;Brno;3702;Brno-město
+26964;Kopretinová;582786;Brno;3702;Brno-město
+26972;Lesnická;582786;Brno;3702;Brno-město
+26981;Lesní;582786;Brno;3702;Brno-město
+26999;Letní;582786;Brno;3702;Brno-město
+27006;Letovická;582786;Brno;3702;Brno-město
+27014;Libušino údolí;582786;Brno;3702;Brno-město
+27022;Kořískova;582786;Brno;3702;Brno-město
+27031;Lidická;582786;Brno;3702;Brno-město
+27049;Liliová;582786;Brno;3702;Brno-město
+27057;Krkoškova;582786;Brno;3702;Brno-město
+27065;Lipová;582786;Brno;3702;Brno-město
+27073;Lipská;582786;Brno;3702;Brno-město
+27081;Liští;582786;Brno;3702;Brno-město
+27090;Lískovecká;582786;Brno;3702;Brno-město
+27103;Lísky;582786;Brno;3702;Brno-město
+27111;Líšeňská;582786;Brno;3702;Brno-město
+27120;Nádvorní;582786;Brno;3702;Brno-město
+27138;Lomená;582786;Brno;3702;Brno-město
+27146;Loosova;582786;Brno;3702;Brno-město
+27154;Loučky;582786;Brno;3702;Brno-město
+27162;Loučná;582786;Brno;3702;Brno-město
+27171;Lovecká;582786;Brno;3702;Brno-město
+27189;Lozíbky;582786;Brno;3702;Brno-město
+27197;Luční;582786;Brno;3702;Brno-město
+27201;Ludmily Konečné;582786;Brno;3702;Brno-město
+27219;Ludvíka Podéště;582786;Brno;3702;Brno-město
+27227;Luh;582786;Brno;3702;Brno-město
+27235;Lužánecká;582786;Brno;3702;Brno-město
+27243;Křivánkovo náměstí;582786;Brno;3702;Brno-město
+27251;Lužická;582786;Brno;3702;Brno-město
+27260;Lužná;582786;Brno;3702;Brno-město
+27278;Lužova;582786;Brno;3702;Brno-město
+27286;Lýskova;582786;Brno;3702;Brno-město
+27294;Macháčkova;582786;Brno;3702;Brno-město
+27308;Jana Broskvy;582786;Brno;3702;Brno-město
+27316;Kusákova;582786;Brno;3702;Brno-město
+27324;Malátova;582786;Brno;3702;Brno-město
+27332;K terminálu;582786;Brno;3702;Brno-město
+27341;Malečkova;582786;Brno;3702;Brno-město
+27359;Malešovská;582786;Brno;3702;Brno-město
+27367;Malíkova;582786;Brno;3702;Brno-město
+27375;Lavičky;582786;Brno;3702;Brno-město
+27383;Malínská;582786;Brno;3702;Brno-město
+27391;Malostranská;582786;Brno;3702;Brno-město
+27405;Mandloňová;582786;Brno;3702;Brno-město
+27413;Maničky;582786;Brno;3702;Brno-město
+27421;Kosmova;582786;Brno;3702;Brno-město
+27430;Marešova;582786;Brno;3702;Brno-město
+27448;Marie Hübnerové;582786;Brno;3702;Brno-město
+27456;Libušina třída;582786;Brno;3702;Brno-město
+27464;Marie Kudeříkové;582786;Brno;3702;Brno-město
+27472;Marie Majerové;582786;Brno;3702;Brno-město
+27481;Marie Pujmanové;582786;Brno;3702;Brno-město
+27499;Marie Steyskalové;582786;Brno;3702;Brno-město
+27502;Markovičova;582786;Brno;3702;Brno-město
+27511;Markéty Kuncové;582786;Brno;3702;Brno-město
+27529;Martina Kříže;582786;Brno;3702;Brno-město
+27537;Martina Ševčíka;582786;Brno;3702;Brno-město
+27545;Martinkova;582786;Brno;3702;Brno-město
+27553;Spolková;582786;Brno;3702;Brno-město
+27561;Mařákova;582786;Brno;3702;Brno-město
+27570;Maříkova;582786;Brno;3702;Brno-město
+27588;Masarova;582786;Brno;3702;Brno-město
+27596;Masarykova;582786;Brno;3702;Brno-město
+27600;Masná;582786;Brno;3702;Brno-město
+27618;Maškova;582786;Brno;3702;Brno-město
+27626;Matalova;582786;Brno;3702;Brno-město
+27634;Mateří;582786;Brno;3702;Brno-město
+27642;Mathonova;582786;Brno;3702;Brno-město
+27651;Matlachova;582786;Brno;3702;Brno-město
+27669;Matulkova;582786;Brno;3702;Brno-město
+27677;Matzenauerova;582786;Brno;3702;Brno-město
+27685;Mazourova;582786;Brno;3702;Brno-město
+27693;Máchalova;582786;Brno;3702;Brno-město
+27707;Máchova;582786;Brno;3702;Brno-město
+27715;Mácova;582786;Brno;3702;Brno-město
+27723;Májová;582786;Brno;3702;Brno-město
+27731;Mánesova;582786;Brno;3702;Brno-město
+27740;Mášova;582786;Brno;3702;Brno-město
+27758;Mečová;582786;Brno;3702;Brno-město
+27766;Medlánecká;582786;Brno;3702;Brno-město
+27774;Melatín;582786;Brno;3702;Brno-město
+27782;Meluzínova;582786;Brno;3702;Brno-město
+27791;Merhautova;582786;Brno;3702;Brno-město
+27804;Lieberzeitova;582786;Brno;3702;Brno-město
+27812;Lysická;582786;Brno;3702;Brno-město
+27821;Meruňková;582786;Brno;3702;Brno-město
+27839;Metodějova;582786;Brno;3702;Brno-město
+27847;Meziboří;582786;Brno;3702;Brno-město
+27855;Mezicestí;582786;Brno;3702;Brno-město
+27863;Mezírka;582786;Brno;3702;Brno-město
+27871;Mezníkova;582786;Brno;3702;Brno-město
+27880;Měnínská;582786;Brno;3702;Brno-město
+27898;Měřičkova;582786;Brno;3702;Brno-město
+27901;Měšťanská;582786;Brno;3702;Brno-město
+27910;Michalova;582786;Brno;3702;Brno-město
+27928;Mifkova;582786;Brno;3702;Brno-město
+27936;Mikšíčkova;582786;Brno;3702;Brno-město
+27944;Mikulčická;582786;Brno;3702;Brno-město
+27952;Mikulovská;582786;Brno;3702;Brno-město
+27961;Milíčova;582786;Brno;3702;Brno-město
+27979;Minoritská;582786;Brno;3702;Brno-město
+27987;Míčkova;582786;Brno;3702;Brno-město
+27995;Mahenova;582786;Brno;3702;Brno-město
+28002;Mírová;582786;Brno;3702;Brno-město
+28011;Mladá;582786;Brno;3702;Brno-město
+28029;Přímá;582786;Brno;3702;Brno-město
+28037;Mlýnská;582786;Brno;3702;Brno-město
+28045;Modřická;582786;Brno;3702;Brno-město
+28053;Makovského náměstí;582786;Brno;3702;Brno-město
+28061;Mojžíšova;582786;Brno;3702;Brno-město
+28070;Malá;582786;Brno;3702;Brno-město
+28096;Mokrohorská;582786;Brno;3702;Brno-město
+28100;Molákova;582786;Brno;3702;Brno-město
+28118;Moldavská;582786;Brno;3702;Brno-město
+28126;Moravanská;582786;Brno;3702;Brno-město
+28134;Moravská;582786;Brno;3702;Brno-město
+28142;Skácelova;582786;Brno;3702;Brno-město
+28151;Mostecká;582786;Brno;3702;Brno-město
+28169;Mošnova;582786;Brno;3702;Brno-město
+28177;Mozartova;582786;Brno;3702;Brno-město
+28185;Mozolky;582786;Brno;3702;Brno-město
+28193;Mrkosova;582786;Brno;3702;Brno-město
+28207;Muchova;582786;Brno;3702;Brno-město
+28215;Mučednická;582786;Brno;3702;Brno-město
+28223;Muzejní;582786;Brno;3702;Brno-město
+28231;Musilova;582786;Brno;3702;Brno-město
+28240;Musorgského;582786;Brno;3702;Brno-město
+28258;Mutěnická;582786;Brno;3702;Brno-město
+28266;Ečerova;582786;Brno;3702;Brno-město
+28274;Myslbekova;582786;Brno;3702;Brno-město
+28282;Myslivecká;582786;Brno;3702;Brno-město
+28291;Myslivečkova;582786;Brno;3702;Brno-město
+28304;Myslivní;582786;Brno;3702;Brno-město
+28312;Myslínova;582786;Brno;3702;Brno-město
+28321;Na kovárně;582786;Brno;3702;Brno-město
+28339;Malinovského náměstí;582786;Brno;3702;Brno-město
+28347;Mariánské náměstí;582786;Brno;3702;Brno-město
+28355;Na lukách;582786;Brno;3702;Brno-město
+28363;Na mlatech;582786;Brno;3702;Brno-město
+28371;Na návsi;582786;Brno;3702;Brno-město
+28380;Na rychtě;582786;Brno;3702;Brno-město
+28398;Nad kašnou;582786;Brno;3702;Brno-město
+28401;Mechová;582786;Brno;3702;Brno-město
+28410;Navrátilova;582786;Brno;3702;Brno-město
+28428;Mendlovo náměstí;582786;Brno;3702;Brno-město
+28436;Nálepkova;582786;Brno;3702;Brno-město
+28444;Mikuláškovo náměstí;582786;Brno;3702;Brno-město
+28452;náměstí Karla IV.;582786;Brno;3702;Brno-město
+28461;Minská;582786;Brno;3702;Brno-město
+28479;Mlaty;582786;Brno;3702;Brno-město
+28487;Mlýnské nábřeží;582786;Brno;3702;Brno-město
+28495;Modřínová;582786;Brno;3702;Brno-město
+28509;Mojmírovo náměstí;582786;Brno;3702;Brno-město
+28517;Moravanské lány;582786;Brno;3702;Brno-město
+28533;Moravské náměstí;582786;Brno;3702;Brno-město
+28541;náměstí Míru;582786;Brno;3702;Brno-město
+28550;Nad lomem;582786;Brno;3702;Brno-město
+28568;Nachová;582786;Brno;3702;Brno-město
+28576;náměstí Odboje;582786;Brno;3702;Brno-město
+28584;náměstí Vojtěšky Matyášové;582786;Brno;3702;Brno-město
+28592;náměstí Republiky;582786;Brno;3702;Brno-město
+28606;náměstí SNP;582786;Brno;3702;Brno-město
+28614;náměstí 28. dubna;582786;Brno;3702;Brno-město
+28622;Obilní trh;582786;Brno;3702;Brno-město
+28631;náměstí Svobody;582786;Brno;3702;Brno-město
+28649;náměstí Svornosti;582786;Brno;3702;Brno-město
+28657;Náplavka;582786;Brno;3702;Brno-město
+28665;Nárožní;582786;Brno;3702;Brno-město
+28673;Návrší Svobody;582786;Brno;3702;Brno-město
+28681;Nedbalova;582786;Brno;3702;Brno-město
+28690;Nejedlého;582786;Brno;3702;Brno-město
+28703;Neklanova;582786;Brno;3702;Brno-město
+28711;Neklež;582786;Brno;3702;Brno-město
+28720;Nerudova;582786;Brno;3702;Brno-město
+28738;Nešverova;582786;Brno;3702;Brno-město
+28746;Netroufalky;582786;Brno;3702;Brno-město
+28754;Netušilova;582786;Brno;3702;Brno-město
+28762;Neumannova;582786;Brno;3702;Brno-město
+28771;Neužilova;582786;Brno;3702;Brno-město
+28789;Nevrklova;582786;Brno;3702;Brno-město
+28797;Nezamyslova;582786;Brno;3702;Brno-město
+28801;Nezvalova;582786;Brno;3702;Brno-město
+28819;Nivky;582786;Brno;3702;Brno-město
+28827;Nohavicova;582786;Brno;3702;Brno-město
+28835;Nopova;582786;Brno;3702;Brno-město
+28843;Houbalova;582786;Brno;3702;Brno-město
+28851;Nouzová;582786;Brno;3702;Brno-město
+28860;Nová;582786;Brno;3702;Brno-město
+28878;Nováčkova;582786;Brno;3702;Brno-město
+28886;Novobranská;582786;Brno;3702;Brno-město
+28894;Novoměstská;582786;Brno;3702;Brno-město
+28908;Novotného;582786;Brno;3702;Brno-město
+28916;Nové sady;582786;Brno;3702;Brno-město
+28924;náměstí 3. května;582786;Brno;3702;Brno-město
+28932;Obecká;582786;Brno;3702;Brno-město
+28941;Obecní;582786;Brno;3702;Brno-město
+28959;Obilní;582786;Brno;3702;Brno-město
+28967;Oblá;582786;Brno;3702;Brno-město
+28975;Obřanská;582786;Brno;3702;Brno-město
+28983;Obůrky;582786;Brno;3702;Brno-město
+28991;Ochozská;582786;Brno;3702;Brno-město
+29009;Odlehlá;582786;Brno;3702;Brno-město
+29017;Okrajová;582786;Brno;3702;Brno-město
+29025;Okružní;582786;Brno;3702;Brno-město
+29033;Olomoucká;582786;Brno;3702;Brno-město
+29041;náměstí 28. října;582786;Brno;3702;Brno-město
+29050;Olšanského;582786;Brno;3702;Brno-město
+29068;Olší;582786;Brno;3702;Brno-město
+29076;Ondráčkova;582786;Brno;3702;Brno-město
+29084;Ondrouškova;582786;Brno;3702;Brno-město
+29092;Ondrova;582786;Brno;3702;Brno-město
+29106;Ondřeje Veselého;582786;Brno;3702;Brno-město
+29114;Opavská;582786;Brno;3702;Brno-město
+29122;Na hrázi;582786;Brno;3702;Brno-město
+29131;Opálkova;582786;Brno;3702;Brno-město
+29149;Opletalova;582786;Brno;3702;Brno-město
+29157;Optátova;582786;Brno;3702;Brno-město
+29165;Opuštěná;582786;Brno;3702;Brno-město
+29173;Orlí;582786;Brno;3702;Brno-město
+29181;Ořechovská;582786;Brno;3702;Brno-město
+29190;Ořešínská;582786;Brno;3702;Brno-město
+29203;Osamělá;582786;Brno;3702;Brno-město
+29211;Osiková;582786;Brno;3702;Brno-město
+29220;Ostopovická;582786;Brno;3702;Brno-město
+29238;Ostrá;582786;Brno;3702;Brno-město
+29246;Ostrovačická;582786;Brno;3702;Brno-město
+29254;Otakara Ševčíka;582786;Brno;3702;Brno-město
+29262;Na klínku;582786;Brno;3702;Brno-město
+29271;Otevřená;582786;Brno;3702;Brno-město
+29289;Ovčírna;582786;Brno;3702;Brno-město
+29297;Ovocná;582786;Brno;3702;Brno-město
+29301;Padělíky;582786;Brno;3702;Brno-město
+29319;Na Nivách;582786;Brno;3702;Brno-město
+29327;Pahrbek;582786;Brno;3702;Brno-město
+29335;Palírenská;582786;Brno;3702;Brno-město
+29343;Na Padělkách;582786;Brno;3702;Brno-město
+29351;Na zeliskách;582786;Brno;3702;Brno-město
+29360;Palouk;582786;Brno;3702;Brno-město
+29378;Panská;582786;Brno;3702;Brno-město
+29386;Pastevní;582786;Brno;3702;Brno-město
+29394;Pastrnkova;582786;Brno;3702;Brno-město
+29408;Pastviny;582786;Brno;3702;Brno-město
+29416;Pavlíkova;582786;Brno;3702;Brno-město
+29424;Pavlovská;582786;Brno;3702;Brno-město
+29432;Pechova;582786;Brno;3702;Brno-město
+29441;Nové náměstí;582786;Brno;3702;Brno-město
+29459;Pekařská;582786;Brno;3702;Brno-město
+29467;Pekárenská;582786;Brno;3702;Brno-město
+29475;Pellicova;582786;Brno;3702;Brno-město
+29483;Pernštejnská;582786;Brno;3702;Brno-město
+29491;Perunova;582786;Brno;3702;Brno-město
+29505;Petlákova;582786;Brno;3702;Brno-město
+29513;Petrov;582786;Brno;3702;Brno-město
+29521;Petrůvky;582786;Brno;3702;Brno-město
+29530;Petřvaldská;582786;Brno;3702;Brno-město
+29548;Pěkná;582786;Brno;3702;Brno-město
+29556;Pěšina;582786;Brno;3702;Brno-město
+29564;Pionýrská;582786;Brno;3702;Brno-město
+29581;Olbrachtovo náměstí;582786;Brno;3702;Brno-město
+29599;Pisárecká;582786;Brno;3702;Brno-město
+29602;Pivodova;582786;Brno;3702;Brno-město
+29611;Pivoňkova;582786;Brno;3702;Brno-město
+29629;Písečná;582786;Brno;3702;Brno-město
+29637;Písečník;582786;Brno;3702;Brno-město
+29645;Píškova;582786;Brno;3702;Brno-město
+29653;Plachtova;582786;Brno;3702;Brno-město
+29661;Plástky;582786;Brno;3702;Brno-město
+29670;Plíže;582786;Brno;3702;Brno-město
+29688;Plotní;582786;Brno;3702;Brno-město
+29696;Plovdivská;582786;Brno;3702;Brno-město
+29700;Pod Borovníkem;582786;Brno;3702;Brno-město
+29718;Pod hejdou;582786;Brno;3702;Brno-město
+29726;Pod Horkou;582786;Brno;3702;Brno-město
+29734;Pod kaplí;582786;Brno;3702;Brno-město
+29742;Pod kaštany;582786;Brno;3702;Brno-město
+29751;Pod kopcem;582786;Brno;3702;Brno-město
+29769;Pod Mniší horou;582786;Brno;3702;Brno-město
+29777;Pod zahradami;582786;Brno;3702;Brno-město
+29785;Podešvova;582786;Brno;3702;Brno-město
+29793;Poděbradova;582786;Brno;3702;Brno-město
+29807;Podhájí;582786;Brno;3702;Brno-město
+29815;Podhorní;582786;Brno;3702;Brno-město
+29823;Podhrázní;582786;Brno;3702;Brno-město
+29831;Podlesí;582786;Brno;3702;Brno-město
+29840;Podlipná;582786;Brno;3702;Brno-město
+29858;Podlomní;582786;Brno;3702;Brno-město
+29866;Podnásepní;582786;Brno;3702;Brno-město
+29874;Podolská;582786;Brno;3702;Brno-město
+29882;Podpěrova;582786;Brno;3702;Brno-město
+29891;Podpísečná;582786;Brno;3702;Brno-město
+29904;Podsedky;582786;Brno;3702;Brno-město
+29912;Podsednická;582786;Brno;3702;Brno-město
+29921;Podskalská;582786;Brno;3702;Brno-město
+29939;Podstránská;582786;Brno;3702;Brno-město
+29947;Podveská;582786;Brno;3702;Brno-město
+29955;Podzimní;582786;Brno;3702;Brno-město
+29963;Pohankova;582786;Brno;3702;Brno-město
+29971;Pokorova;582786;Brno;3702;Brno-město
+29980;Poledníkova;582786;Brno;3702;Brno-město
+29998;Polívkova;582786;Brno;3702;Brno-město
+30007;Polní;582786;Brno;3702;Brno-město
+30015;Pomezní;582786;Brno;3702;Brno-město
+30023;Pompova;582786;Brno;3702;Brno-město
+30031;Ponávka;582786;Brno;3702;Brno-město
+30040;Popelákova;582786;Brno;3702;Brno-město
+30058;Popelova;582786;Brno;3702;Brno-město
+30066;Poplužní;582786;Brno;3702;Brno-město
+30074;Porhajmova;582786;Brno;3702;Brno-město
+30082;Poříčí;582786;Brno;3702;Brno-město
+30091;Pospíšilova;582786;Brno;3702;Brno-město
+30104;Postranní;582786;Brno;3702;Brno-město
+30112;Poštovská;582786;Brno;3702;Brno-město
+30121;Potácelova;582786;Brno;3702;Brno-město
+30139;Potocká;582786;Brno;3702;Brno-město
+30147;Potoční;582786;Brno;3702;Brno-město
+30155;Poznaňská;582786;Brno;3702;Brno-město
+30163;Požární;582786;Brno;3702;Brno-město
+30171;Pramenná;582786;Brno;3702;Brno-město
+30180;Prašná;582786;Brno;3702;Brno-město
+30198;Pratecká;582786;Brno;3702;Brno-město
+30201;Pražákova;582786;Brno;3702;Brno-město
+30210;Pražská;582786;Brno;3702;Brno-město
+30228;Práčata;582786;Brno;3702;Brno-město
+30236;Preslova;582786;Brno;3702;Brno-město
+30244;Prodloužená;582786;Brno;3702;Brno-město
+30252;Prokešova;582786;Brno;3702;Brno-město
+30261;Prokofjevova;582786;Brno;3702;Brno-město
+30279;Prokopa Velikého;582786;Brno;3702;Brno-město
+30287;Prokopův kopec;582786;Brno;3702;Brno-město
+30295;K Bukovinám;582786;Brno;3702;Brno-město
+30309;Prostějovská;582786;Brno;3702;Brno-město
+30317;Prostřední;582786;Brno;3702;Brno-město
+30325;Provazníkova;582786;Brno;3702;Brno-město
+30333;Ondříčkovo náměstí;582786;Brno;3702;Brno-město
+30341;Prušánecká;582786;Brno;3702;Brno-město
+30350;Průchodní;582786;Brno;3702;Brno-město
+30368;Průjezdní;582786;Brno;3702;Brno-město
+30376;Přadlácká;582786;Brno;3702;Brno-město
+30384;Přední;582786;Brno;3702;Brno-město
+30392;Přehradní;582786;Brno;3702;Brno-město
+30406;Přerovská;582786;Brno;3702;Brno-město
+30414;Oranžová;582786;Brno;3702;Brno-město
+30422;Palackého náměstí;582786;Brno;3702;Brno-město
+30431;Přichystalova;582786;Brno;3702;Brno-město
+30449;Příčky;582786;Brno;3702;Brno-město
+30457;Příční;582786;Brno;3702;Brno-město
+30465;Příhon;582786;Brno;3702;Brno-město
+30473;Příjezdová;582786;Brno;3702;Brno-město
+30481;Příkop;582786;Brno;3702;Brno-město
+30490;Příkrá;582786;Brno;3702;Brno-město
+30503;Přístavní;582786;Brno;3702;Brno-město
+30511;Přívrat;582786;Brno;3702;Brno-město
+30520;Přízova;582786;Brno;3702;Brno-město
+30538;Pšeník;582786;Brno;3702;Brno-město
+30546;Palackého třída;582786;Brno;3702;Brno-město
+30554;Pšikalova;582786;Brno;3702;Brno-město
+30562;Ptašínského;582786;Brno;3702;Brno-město
+30571;Puchýřova;582786;Brno;3702;Brno-město
+30589;Purkyňova;582786;Brno;3702;Brno-město
+30597;Pusty;582786;Brno;3702;Brno-město
+30601;Puškinova;582786;Brno;3702;Brno-město
+30619;Půvabná;582786;Brno;3702;Brno-město
+30627;Radlas;582786;Brno;3702;Brno-město
+30635;Radnická;582786;Brno;3702;Brno-město
+30643;Raisova;582786;Brno;3702;Brno-město
+30651;Rajhradská;582786;Brno;3702;Brno-město
+30660;Rakovecká;582786;Brno;3702;Brno-město
+30678;Pálavské náměstí;582786;Brno;3702;Brno-město
+30686;Ramešova;582786;Brno;3702;Brno-město
+30694;Rašelinová;582786;Brno;3702;Brno-město
+30708;Ráj;582786;Brno;3702;Brno-město
+30716;Ráječek;582786;Brno;3702;Brno-město
+30724;Rázusova;582786;Brno;3702;Brno-město
+30732;Rebešovická;582786;Brno;3702;Brno-město
+30741;Reissigova;582786;Brno;3702;Brno-město
+30759;Rekreační;582786;Brno;3702;Brno-město
+30767;Rerychova;582786;Brno;3702;Brno-město
+30775;Parková;582786;Brno;3702;Brno-město
+30783;Revírníkova;582786;Brno;3702;Brno-město
+30791;Revoluční;582786;Brno;3702;Brno-město
+30805;Rezkova;582786;Brno;3702;Brno-město
+30813;Richarda Knose;582786;Brno;3702;Brno-město
+30821;Richtrova;582786;Brno;3702;Brno-město
+30830;Riegrova;582786;Brno;3702;Brno-město
+30848;Ríšova;582786;Brno;3702;Brno-město
+30856;Roháčkova;582786;Brno;3702;Brno-město
+30864;Rokycanova;582786;Brno;3702;Brno-město
+30872;Rokytova;582786;Brno;3702;Brno-město
+30881;Rolencova;582786;Brno;3702;Brno-město
+30899;Rolnická;582786;Brno;3702;Brno-město
+30902;Ronovská;582786;Brno;3702;Brno-město
+30911;Rooseveltova;582786;Brno;3702;Brno-město
+30929;Rotalova;582786;Brno;3702;Brno-město
+30937;Pešinova;582786;Brno;3702;Brno-město
+30945;Pflegrova;582786;Brno;3702;Brno-město
+30953;Pod Holednou;582786;Brno;3702;Brno-město
+30961;Rotreklova;582786;Brno;3702;Brno-město
+30970;Roubalova;582786;Brno;3702;Brno-město
+30988;Rousínovská;582786;Brno;3702;Brno-město
+30996;Rovinka;582786;Brno;3702;Brno-město
+31003;Rovná;582786;Brno;3702;Brno-město
+31011;Rozárka;582786;Brno;3702;Brno-město
+31020;Rozhledová;582786;Brno;3702;Brno-město
+31038;Pod Ostrou;582786;Brno;3702;Brno-město
+31046;Rozhraní;582786;Brno;3702;Brno-město
+31054;Rozkošná;582786;Brno;3702;Brno-město
+31062;Ruda;582786;Brno;3702;Brno-město
+31071;Rudišova;582786;Brno;3702;Brno-město
+31089;Rumiště;582786;Brno;3702;Brno-město
+31097;Ruská;582786;Brno;3702;Brno-město
+31101;Ruský vrch;582786;Brno;3702;Brno-město
+31119;Rušná;582786;Brno;3702;Brno-město
+31127;Růžová;582786;Brno;3702;Brno-město
+31135;Rybářská;582786;Brno;3702;Brno-město
+31143;Rybkova;582786;Brno;3702;Brno-město
+31151;Rybnická;582786;Brno;3702;Brno-město
+31160;Rybníček;582786;Brno;3702;Brno-město
+31178;Rysova;582786;Brno;3702;Brno-město
+31194;Ryšánkova;582786;Brno;3702;Brno-město
+31208;Řádky;582786;Brno;3702;Brno-město
+31216;Řehákova;582786;Brno;3702;Brno-město
+31224;Řehořova;582786;Brno;3702;Brno-město
+31232;Řezáčova;582786;Brno;3702;Brno-město
+31241;Řeznická;582786;Brno;3702;Brno-město
+31259;Říční;582786;Brno;3702;Brno-město
+31267;Ševčenkova;582786;Brno;3702;Brno-město
+31275;Proškovo náměstí;582786;Brno;3702;Brno-město
+31283;Sabinova;582786;Brno;3702;Brno-město
+31291;Sadařská;582786;Brno;3702;Brno-město
+31305;Sadovského;582786;Brno;3702;Brno-město
+31313;Sady;582786;Brno;3702;Brno-město
+31321;Saidova;582786;Brno;3702;Brno-město
+31330;Salajní;582786;Brno;3702;Brno-město
+31348;Samoty;582786;Brno;3702;Brno-město
+31356;Sazenice;582786;Brno;3702;Brno-město
+31364;Scheinerova;582786;Brno;3702;Brno-město
+31372;Schodová;582786;Brno;3702;Brno-město
+31381;Schovaná;582786;Brno;3702;Brno-město
+31399;Schwaigrova;582786;Brno;3702;Brno-město
+31402;Sedla;582786;Brno;3702;Brno-město
+31411;Sedlákova;582786;Brno;3702;Brno-město
+31429;Sejkorova;582786;Brno;3702;Brno-město
+31437;Sekaninova;582786;Brno;3702;Brno-město
+31445;Selská;582786;Brno;3702;Brno-město
+31453;Sevastopolská;582786;Brno;3702;Brno-město
+31461;Severní;582786;Brno;3702;Brno-město
+31470;Sibiřská;582786;Brno;3702;Brno-město
+31488;Sirotkova;582786;Brno;3702;Brno-město
+31496;Síčka;582786;Brno;3702;Brno-město
+31500;Skalky;582786;Brno;3702;Brno-město
+31518;Skalní;582786;Brno;3702;Brno-město
+31526;Skopalíkova;582786;Brno;3702;Brno-město
+31534;Skorkovského;582786;Brno;3702;Brno-město
+31542;Skořepka;582786;Brno;3702;Brno-město
+31551;Skoumalova;582786;Brno;3702;Brno-město
+31569;Skrejš;582786;Brno;3702;Brno-město
+31577;Skryjova;582786;Brno;3702;Brno-město
+31585;Skrytá;582786;Brno;3702;Brno-město
+31593;Skřivanova;582786;Brno;3702;Brno-město
+31607;Skřivánčí;582786;Brno;3702;Brno-město
+31615;Sladkovského;582786;Brno;3702;Brno-město
+31623;Sladkého;582786;Brno;3702;Brno-město
+31631;Sladová;582786;Brno;3702;Brno-město
+31640;Sladovnická;582786;Brno;3702;Brno-město
+31658;Slaměníkova;582786;Brno;3702;Brno-město
+31666;Slatinka;582786;Brno;3702;Brno-město
+31674;Slatinská;582786;Brno;3702;Brno-město
+31682;Slavíčkova;582786;Brno;3702;Brno-město
+31691;Slavkovská;582786;Brno;3702;Brno-město
+31704;Sládkova;582786;Brno;3702;Brno-město
+31712;Slámova;582786;Brno;3702;Brno-město
+31721;Slepá;582786;Brno;3702;Brno-město
+31739;Slevačská;582786;Brno;3702;Brno-město
+31747;Slezákova;582786;Brno;3702;Brno-město
+31755;Slezská;582786;Brno;3702;Brno-město
+31763;Slíny;582786;Brno;3702;Brno-město
+31771;Slívova;582786;Brno;3702;Brno-město
+31780;Slovákova;582786;Brno;3702;Brno-město
+31798;Přemyslovo náměstí;582786;Brno;3702;Brno-město
+31801;Slovinská;582786;Brno;3702;Brno-město
+31810;Slunná;582786;Brno;3702;Brno-město
+31828;Smetanova;582786;Brno;3702;Brno-město
+31836;Smrčková;582786;Brno;3702;Brno-město
+31844;Smutná;582786;Brno;3702;Brno-město
+31852;Sněžná;582786;Brno;3702;Brno-město
+31861;Soběslavova;582786;Brno;3702;Brno-město
+31879;Soběšická;582786;Brno;3702;Brno-město
+31887;Sobolova;582786;Brno;3702;Brno-město
+31895;Sobotkova;582786;Brno;3702;Brno-město
+31909;Sochorova;582786;Brno;3702;Brno-město
+31917;Sokolnická;582786;Brno;3702;Brno-město
+31925;Sokolova;582786;Brno;3702;Brno-město
+31933;Sokolská;582786;Brno;3702;Brno-město
+31941;Fryčajova;582786;Brno;3702;Brno-město
+31950;Solniční;582786;Brno;3702;Brno-město
+31968;Sosnová;582786;Brno;3702;Brno-město
+31976;Součkova;582786;Brno;3702;Brno-město
+31984;Soudní;582786;Brno;3702;Brno-město
+31992;Soukenická;582786;Brno;3702;Brno-město
+32000;Soukopova;582786;Brno;3702;Brno-město
+32018;Sousední;582786;Brno;3702;Brno-město
+32026;Sovinec;582786;Brno;3702;Brno-město
+32034;Pulkrábkova;582786;Brno;3702;Brno-město
+32042;Sovova;582786;Brno;3702;Brno-město
+32051;Spáčilova;582786;Brno;3702;Brno-město
+32069;Spádová;582786;Brno;3702;Brno-město
+32077;Spodní;582786;Brno;3702;Brno-město
+32085;Spojovací;582786;Brno;3702;Brno-město
+32093;Sportovní;582786;Brno;3702;Brno-město
+32107;Srbská;582786;Brno;3702;Brno-město
+32115;Srnčí;582786;Brno;3702;Brno-město
+32123;Staňkova;582786;Brno;3702;Brno-město
+32131;Renneská třída;582786;Brno;3702;Brno-město
+32140;Stará;582786;Brno;3702;Brno-město
+32158;Stará osada;582786;Brno;3702;Brno-město
+32166;Starobrněnská;582786;Brno;3702;Brno-město
+32174;Staré náměstí;582786;Brno;3702;Brno-město
+32182;Staré zámky;582786;Brno;3702;Brno-město
+32191;Stavební;582786;Brno;3702;Brno-město
+32204;Stejskalova;582786;Brno;3702;Brno-město
+32212;Stinná;582786;Brno;3702;Brno-město
+32221;Stojanova;582786;Brno;3702;Brno-město
+32239;Strakatého;582786;Brno;3702;Brno-město
+32247;Stránská;582786;Brno;3702;Brno-město
+32255;Stránského;582786;Brno;3702;Brno-město
+32263;Stráň;582786;Brno;3702;Brno-město
+32271;Strážnická;582786;Brno;3702;Brno-město
+32280;Strmá;582786;Brno;3702;Brno-město
+32298;Strnadova;582786;Brno;3702;Brno-město
+32301;Stromovka;582786;Brno;3702;Brno-město
+32310;Strž;582786;Brno;3702;Brno-město
+32328;Střední;582786;Brno;3702;Brno-město
+32336;Středova;582786;Brno;3702;Brno-město
+32344;Střelnice;582786;Brno;3702;Brno-město
+32352;Střížova;582786;Brno;3702;Brno-město
+32361;Studánka;582786;Brno;3702;Brno-město
+32379;Studená;582786;Brno;3702;Brno-město
+32387;Studniční;582786;Brno;3702;Brno-město
+32395;Suchého;582786;Brno;3702;Brno-město
+32409;Sukova;582786;Brno;3702;Brno-město
+32417;Sušilova;582786;Brno;3702;Brno-město
+32425;Suzova;582786;Brno;3702;Brno-město
+32433;Svah;582786;Brno;3702;Brno-město
+32441;Svatopetrská;582786;Brno;3702;Brno-město
+32450;Svatopluka Čecha;582786;Brno;3702;Brno-město
+32468;Svatoplukova;582786;Brno;3702;Brno-město
+32476;Svánovského;582786;Brno;3702;Brno-město
+32484;Svážná;582786;Brno;3702;Brno-město
+32492;Vltavská;582786;Brno;3702;Brno-město
+32506;Světlá;582786;Brno;3702;Brno-město
+32514;Svitavská;582786;Brno;3702;Brno-město
+32522;Svratecká;582786;Brno;3702;Brno-město
+32531;Rosického náměstí;582786;Brno;3702;Brno-město
+32549;Sychrov;582786;Brno;3702;Brno-město
+32557;Synkova;582786;Brno;3702;Brno-město
+32565;Sýpka;582786;Brno;3702;Brno-město
+32573;Šafaříkova;582786;Brno;3702;Brno-město
+32581;Šaldova;582786;Brno;3702;Brno-město
+32590;Šalounova;582786;Brno;3702;Brno-město
+32603;Šámalova;582786;Brno;3702;Brno-město
+32611;Rostislavovo náměstí;582786;Brno;3702;Brno-město
+32620;Šárka;582786;Brno;3702;Brno-město
+32638;Šedova;582786;Brno;3702;Brno-město
+32646;Šeránkova;582786;Brno;3702;Brno-město
+32654;Šeříková;582786;Brno;3702;Brno-město
+32662;Šestákova;582786;Brno;3702;Brno-město
+32671;Ševcova;582786;Brno;3702;Brno-město
+32689;Ševelova;582786;Brno;3702;Brno-město
+32697;Šikulova;582786;Brno;3702;Brno-město
+32701;Šilarova;582786;Brno;3702;Brno-město
+32719;Šimáčkova;582786;Brno;3702;Brno-město
+32727;Rovnoběžná;582786;Brno;3702;Brno-město
+32735;Široká;582786;Brno;3702;Brno-město
+32743;Šípková;582786;Brno;3702;Brno-město
+32751;Škárova;582786;Brno;3702;Brno-město
+32760;Školní;582786;Brno;3702;Brno-město
+32778;Škrochova;582786;Brno;3702;Brno-město
+32786;Škroupova;582786;Brno;3702;Brno-město
+32794;Škrétova;582786;Brno;3702;Brno-město
+32808;Šmahova;582786;Brno;3702;Brno-město
+32816;Šmejkalova;582786;Brno;3702;Brno-město
+32824;Pod nemocnicí;582786;Brno;3702;Brno-město
+32832;Šmilovského;582786;Brno;3702;Brno-město
+32841;Šmídkova;582786;Brno;3702;Brno-město
+32859;Šoustalova;582786;Brno;3702;Brno-město
+32867;Špačkova;582786;Brno;3702;Brno-město
+32875;Španielova;582786;Brno;3702;Brno-město
+32883;Špitálka;582786;Brno;3702;Brno-město
+32891;Špirkova;582786;Brno;3702;Brno-město
+32905;Šrámkova;582786;Brno;3702;Brno-město
+32913;Šromova;582786;Brno;3702;Brno-město
+32921;Štefáčkova;582786;Brno;3702;Brno-město
+32930;Štěpánkova;582786;Brno;3702;Brno-město
+32948;Štěpánská;582786;Brno;3702;Brno-město
+32956;Poláčkova;582786;Brno;3702;Brno-město
+32964;Štítného;582786;Brno;3702;Brno-město
+32972;Štolcova;582786;Brno;3702;Brno-město
+32981;Štouračova;582786;Brno;3702;Brno-město
+32999;Štursova;582786;Brno;3702;Brno-město
+33006;Šťastného;582786;Brno;3702;Brno-město
+33014;Šumavská;582786;Brno;3702;Brno-město
+33022;Řípská;582786;Brno;3702;Brno-město
+33031;Švábenského;582786;Brno;3702;Brno-město
+33049;Švermova;582786;Brno;3702;Brno-město
+33057;Švestková;582786;Brno;3702;Brno-město
+33065;Švédská;582786;Brno;3702;Brno-město
+33073;Talichova;582786;Brno;3702;Brno-město
+33081;Nádražní;582786;Brno;3702;Brno-město
+33090;Taussigova;582786;Brno;3702;Brno-město
+33103;Tábor;582786;Brno;3702;Brno-město
+33111;Táborská;582786;Brno;3702;Brno-město
+33120;Tenorova;582786;Brno;3702;Brno-město
+33138;sady Národního odboje;582786;Brno;3702;Brno-město
+33146;Terasová;582786;Brno;3702;Brno-město
+33154;Sámova;582786;Brno;3702;Brno-město
+33162;Tererova;582786;Brno;3702;Brno-město
+33171;Terezy Novákové;582786;Brno;3702;Brno-město
+33189;Teslova;582786;Brno;3702;Brno-město
+33197;Těsná;582786;Brno;3702;Brno-město
+33201;Těsnohlídkova;582786;Brno;3702;Brno-město
+33219;Těšínská;582786;Brno;3702;Brno-město
+33227;Tichého;582786;Brno;3702;Brno-město
+33235;Schreberovy zahrádky;582786;Brno;3702;Brno-město
+33243;Tihůvka;582786;Brno;3702;Brno-město
+33251;Tilhonova;582786;Brno;3702;Brno-město
+33260;Tišnovská;582786;Brno;3702;Brno-město
+33278;Tkalcovská;582786;Brno;3702;Brno-město
+33286;Točná;582786;Brno;3702;Brno-město
+33294;Tolstého;582786;Brno;3702;Brno-město
+33308;Tomanova;582786;Brno;3702;Brno-město
+33316;Tomáškova;582786;Brno;3702;Brno-město
+33324;Tomešova;582786;Brno;3702;Brno-město
+33332;Bednaříkova;582786;Brno;3702;Brno-město
+33341;Slovanské náměstí;582786;Brno;3702;Brno-město
+33359;Topolky;582786;Brno;3702;Brno-město
+33367;Touškova;582786;Brno;3702;Brno-město
+33375;Tovačovského;582786;Brno;3702;Brno-město
+33383;Traubova;582786;Brno;3702;Brno-město
+33391;Trávníčkova;582786;Brno;3702;Brno-město
+33405;Trávníky;582786;Brno;3702;Brno-město
+33413;Trnitá;582786;Brno;3702;Brno-město
+33421;Trnkova;582786;Brno;3702;Brno-město
+33430;Troubská;582786;Brno;3702;Brno-město
+33448;Trtílkova;582786;Brno;3702;Brno-město
+33456;Trýbova;582786;Brno;3702;Brno-město
+33464;Tržní;582786;Brno;3702;Brno-město
+33472;Třebízského;582786;Brno;3702;Brno-město
+33481;Spěšná;582786;Brno;3702;Brno-město
+33499;Stamicova;582786;Brno;3702;Brno-město
+33502;Třešňová;582786;Brno;3702;Brno-město
+33511;Tříčtvrtní;582786;Brno;3702;Brno-město
+33529;Benešova;582786;Brno;3702;Brno-město
+33537;Milady Horákové;582786;Brno;3702;Brno-město
+33545;Svitavské nábřeží;582786;Brno;3702;Brno-město
+33553;Třískalova;582786;Brno;3702;Brno-město
+33561;Tučkova;582786;Brno;3702;Brno-město
+33570;Tuháčkova;582786;Brno;3702;Brno-město
+33588;Tumaňanova;582786;Brno;3702;Brno-město
+33596;Turgeněvova;582786;Brno;3702;Brno-město
+33600;Turistická;582786;Brno;3702;Brno-město
+33618;Tuřanka;582786;Brno;3702;Brno-město
+33626;Tuřanská;582786;Brno;3702;Brno-město
+33634;Tůmova;582786;Brno;3702;Brno-město
+33642;Šaumannova;582786;Brno;3702;Brno-město
+33651;Tvrdého;582786;Brno;3702;Brno-město
+33669;Tylova;582786;Brno;3702;Brno-město
+33677;Tyršova;582786;Brno;3702;Brno-město
+33685;Tyršovo návrší;582786;Brno;3702;Brno-město
+33693;U dráhy;582786;Brno;3702;Brno-město
+33707;U hájovny;582786;Brno;3702;Brno-město
+33715;U hřiště;582786;Brno;3702;Brno-město
+33723;U jezu;582786;Brno;3702;Brno-město
+33731;U lesíčka;582786;Brno;3702;Brno-město
+33740;U lípy Svobody;582786;Brno;3702;Brno-město
+33758;U památníku;582786;Brno;3702;Brno-město
+33766;U potoka;582786;Brno;3702;Brno-město
+33774;U smyčky;582786;Brno;3702;Brno-město
+33782;U sokolovny;582786;Brno;3702;Brno-město
+33791;U ústavu;582786;Brno;3702;Brno-město
+33804;U Velké ceny;582786;Brno;3702;Brno-město
+33812;U viaduktu;582786;Brno;3702;Brno-město
+33821;U vlečky;582786;Brno;3702;Brno-město
+33839;U vodárny;582786;Brno;3702;Brno-město
+33847;U zbrojnice;582786;Brno;3702;Brno-město
+33855;U zoologické zahrady;582786;Brno;3702;Brno-město
+33863;U zvoničky;582786;Brno;3702;Brno-město
+33871;Uhelná;582786;Brno;3702;Brno-město
+33880;Uhýrkova;582786;Brno;3702;Brno-město
+33898;Šilingrovo náměstí;582786;Brno;3702;Brno-město
+33901;Ukrajinská;582786;Brno;3702;Brno-město
+33910;Rašínova;582786;Brno;3702;Brno-město
+33928;Šlapanická;582786;Brno;3702;Brno-město
+33936;ulice Čoupkových;582786;Brno;3702;Brno-město
+33944;Vitáskova;582786;Brno;3702;Brno-město
+33952;ulice Kosmonautů;582786;Brno;3702;Brno-město
+33961;Ulička;582786;Brno;3702;Brno-město
+33979;Ulrychova;582786;Brno;3702;Brno-město
+33987;Urbánkova;582786;Brno;3702;Brno-město
+33995;Šujanovo náměstí;582786;Brno;3702;Brno-město
+34002;Urxova;582786;Brno;3702;Brno-město
+34011;Uzavřená;582786;Brno;3702;Brno-město
+34029;Uzbecká;582786;Brno;3702;Brno-město
+34037;Údolíček;582786;Brno;3702;Brno-město
+34045;Táborského nábřeží;582786;Brno;3702;Brno-město
+34053;Údolní;582786;Brno;3702;Brno-město
+34061;Úhledná;582786;Brno;3702;Brno-město
+34070;Újezdy;582786;Brno;3702;Brno-město
+34088;Úpatní;582786;Brno;3702;Brno-město
+34096;Uprkova;582786;Brno;3702;Brno-město
+34100;Útěchovská;582786;Brno;3702;Brno-město
+34118;Úvoz;582786;Brno;3702;Brno-město
+34126;Úzká;582786;Brno;3702;Brno-město
+34134;V aleji;582786;Brno;3702;Brno-město
+34142;V koutku;582786;Brno;3702;Brno-město
+34151;V pískách;582786;Brno;3702;Brno-město
+34169;V rejích;582786;Brno;3702;Brno-město
+34177;V tišině;582786;Brno;3702;Brno-město
+34185;Vachova;582786;Brno;3702;Brno-město
+34193;Vackova;582786;Brno;3702;Brno-město
+34207;Vaculíkova;582786;Brno;3702;Brno-město
+34215;Valchařská;582786;Brno;3702;Brno-město
+34223;Valouškova;582786;Brno;3702;Brno-město
+34231;Valtická;582786;Brno;3702;Brno-město
+34240;Vančurova;582786;Brno;3702;Brno-město
+34258;Vaníčkova;582786;Brno;3702;Brno-město
+34266;Vaňhalova;582786;Brno;3702;Brno-město
+34274;Vaškova;582786;Brno;3702;Brno-město
+34282;Teyschlova;582786;Brno;3702;Brno-město
+34291;Vavákova;582786;Brno;3702;Brno-město
+34304;Vavřinecká;582786;Brno;3702;Brno-město
+34312;Václavkova;582786;Brno;3702;Brno-město
+34321;Václavská;582786;Brno;3702;Brno-město
+34339;Vápenka;582786;Brno;3702;Brno-město
+34347;Vážného;582786;Brno;3702;Brno-město
+34355;Včelařská;582786;Brno;3702;Brno-město
+34363;Včeličkova;582786;Brno;3702;Brno-město
+34371;Ve vinohradech;582786;Brno;3702;Brno-město
+34380;Renčova;582786;Brno;3702;Brno-město
+34398;Vejrostova;582786;Brno;3702;Brno-město
+34401;Velatická;582786;Brno;3702;Brno-město
+34410;Veleckého;582786;Brno;3702;Brno-město
+34428;Veleslavínova;582786;Brno;3702;Brno-město
+34436;Velkopavlovická;582786;Brno;3702;Brno-město
+34444;Venhudova;582786;Brno;3702;Brno-město
+34452;Veselá;582786;Brno;3702;Brno-město
+34461;Veselka;582786;Brno;3702;Brno-město
+34479;Veslařská;582786;Brno;3702;Brno-město
+34487;Veveří;582786;Brno;3702;Brno-město
+34495;Tomkovo náměstí;582786;Brno;3702;Brno-město
+34509;Větrná;582786;Brno;3702;Brno-město
+34517;Vilová;582786;Brno;3702;Brno-město
+34525;Vinařického;582786;Brno;3702;Brno-město
+34533;Vinařská;582786;Brno;3702;Brno-město
+34541;Viniční;582786;Brno;3702;Brno-město
+34550;Vinohradská;582786;Brno;3702;Brno-město
+34568;Vinohrady;582786;Brno;3702;Brno-město
+34576;Višňová;582786;Brno;3702;Brno-město
+34584;Vídeňská;582786;Brno;3702;Brno-město
+34592;Vítězná;582786;Brno;3702;Brno-město
+34606;Vítězslavy Kaprálové;582786;Brno;3702;Brno-město
+34614;Vlasty Pittnerové;582786;Brno;3702;Brno-město
+34622;Vlárská;582786;Brno;3702;Brno-město
+34631;Vlčkova;582786;Brno;3702;Brno-město
+34649;Vlčnovská;582786;Brno;3702;Brno-město
+34657;Vlhká;582786;Brno;3702;Brno-město
+34665;Vlkova;582786;Brno;3702;Brno-město
+34673;Vlnitá;582786;Brno;3702;Brno-město
+34681;Vnitřní;582786;Brno;3702;Brno-město
+34690;Vodařská;582786;Brno;3702;Brno-město
+34703;Vodní;582786;Brno;3702;Brno-město
+34711;Vodova;582786;Brno;3702;Brno-město
+34720;Vohnoutova;582786;Brno;3702;Brno-město
+34738;Vojanova;582786;Brno;3702;Brno-město
+34746;Vojtova;582786;Brno;3702;Brno-město
+34754;Volejníkova;582786;Brno;3702;Brno-město
+34762;Volfova;582786;Brno;3702;Brno-město
+34771;Karpatská;582786;Brno;3702;Brno-město
+34789;Vondrákova;582786;Brno;3702;Brno-město
+34797;Voroněžská;582786;Brno;3702;Brno-město
+34801;Voříškova;582786;Brno;3702;Brno-město
+34819;třída Kpt. Jaroše;582786;Brno;3702;Brno-město
+34827;Votroubkova;582786;Brno;3702;Brno-město
+34835;Vranovská;582786;Brno;3702;Brno-město
+34843;Vratná;582786;Brno;3702;Brno-město
+34851;Vránova;582786;Brno;3702;Brno-město
+34860;Vrázova;582786;Brno;3702;Brno-město
+34878;Tuřanské náměstí;582786;Brno;3702;Brno-město
+34886;Vrbenského;582786;Brno;3702;Brno-město
+34894;Vrbí;582786;Brno;3702;Brno-město
+34908;Vrchlického sad;582786;Brno;3702;Brno-město
+34916;Vrchní;582786;Brno;3702;Brno-město
+34924;Vřesová;582786;Brno;3702;Brno-město
+34932;Vsetínská;582786;Brno;3702;Brno-město
+34941;Všetičkova;582786;Brno;3702;Brno-město
+34959;Vychodilova;582786;Brno;3702;Brno-město
+34967;Vyhlídalova;582786;Brno;3702;Brno-město
+34975;Vyhlídka;582786;Brno;3702;Brno-město
+34983;Vymazalova;582786;Brno;3702;Brno-město
+34991;Vysoká;582786;Brno;3702;Brno-město
+35009;Vyšehradská;582786;Brno;3702;Brno-město
+35017;Vyškovská;582786;Brno;3702;Brno-město
+35025;Východní;582786;Brno;3702;Brno-město
+35033;Výhon;582786;Brno;3702;Brno-město
+35041;Výletní;582786;Brno;3702;Brno-město
+35050;Výpadní;582786;Brno;3702;Brno-město
+35068;Výpravní;582786;Brno;3702;Brno-město
+35076;Výpustky;582786;Brno;3702;Brno-město
+35084;Výsluní;582786;Brno;3702;Brno-město
+35092;Výspa;582786;Brno;3702;Brno-město
+35106;Výstavní;582786;Brno;3702;Brno-město
+35114;Výšina;582786;Brno;3702;Brno-město
+35122;Výzkumní;582786;Brno;3702;Brno-město
+35131;Vzdálená;582786;Brno;3702;Brno-město
+35149;Vzhledná;582786;Brno;3702;Brno-město
+35157;Wanklova;582786;Brno;3702;Brno-město
+35165;ulice 1. května;582786;Brno;3702;Brno-město
+35173;Weissova;582786;Brno;3702;Brno-město
+35181;Wintrova;582786;Brno;3702;Brno-město
+35190;Wolkrova;582786;Brno;3702;Brno-město
+35203;Wollmanova;582786;Brno;3702;Brno-město
+35211;Wurmova;582786;Brno;3702;Brno-město
+35220;Ypsilantiho;582786;Brno;3702;Brno-město
+35238;Za divadlem;582786;Brno;3702;Brno-město
+35246;Za mostem;582786;Brno;3702;Brno-město
+35254;Za školou;582786;Brno;3702;Brno-město
+35262;Za vodojemem;582786;Brno;3702;Brno-město
+35271;Zachova;582786;Brno;3702;Brno-město
+35289;Zadní;582786;Brno;3702;Brno-město
+35297;Zahradnická;582786;Brno;3702;Brno-město
+35301;Zahradní;582786;Brno;3702;Brno-město
+35319;Zahradníkova;582786;Brno;3702;Brno-město
+35327;Zahrádky;582786;Brno;3702;Brno-město
+35335;Zaječí hora;582786;Brno;3702;Brno-město
+35343;Zapletalova;582786;Brno;3702;Brno-město
+35351;Zatloukalova;582786;Brno;3702;Brno-město
+35360;Zavřená;582786;Brno;3702;Brno-město
+35378;Zábranského;582786;Brno;3702;Brno-město
+35386;Záhřebská;582786;Brno;3702;Brno-město
+35394;Záhumenice;582786;Brno;3702;Brno-město
+35408;Záhumní;582786;Brno;3702;Brno-město
+35416;Zájezdní;582786;Brno;3702;Brno-město
+35424;Zákoutí;582786;Brno;3702;Brno-město
+35432;Záleského;582786;Brno;3702;Brno-město
+35441;Zámecká;582786;Brno;3702;Brno-město
+35459;Zámečnická;582786;Brno;3702;Brno-město
+35467;Západní;582786;Brno;3702;Brno-město
+35475;Okrouhlá;582786;Brno;3702;Brno-město
+35483;Zátiší;582786;Brno;3702;Brno-město
+35491;Závětří;582786;Brno;3702;Brno-město
+35505;Závist;582786;Brno;3702;Brno-město
+35513;Závodní;582786;Brno;3702;Brno-město
+35521;Závodského;582786;Brno;3702;Brno-město
+35530;Zázmolí;582786;Brno;3702;Brno-město
+35548;Zborovská;582786;Brno;3702;Brno-město
+35556;Zdráhalova;582786;Brno;3702;Brno-město
+35564;Zedníkova;582786;Brno;3702;Brno-město
+35572;Zeiberlichova;582786;Brno;3702;Brno-město
+35581;Zeleného;582786;Brno;3702;Brno-město
+35599;Zelná;582786;Brno;3702;Brno-město
+35602;Zelný trh;582786;Brno;3702;Brno-město
+35611;Zemanova;582786;Brno;3702;Brno-město
+35629;Zemědělská;582786;Brno;3702;Brno-město
+35637;Zemkova;582786;Brno;3702;Brno-město
+35645;Zengrova;582786;Brno;3702;Brno-město
+35653;Zeyerova;582786;Brno;3702;Brno-město
+35661;Zezulova;582786;Brno;3702;Brno-město
+35670;Zikova;582786;Brno;3702;Brno-město
+35688;Zimní;582786;Brno;3702;Brno-město
+35696;Zkratka;582786;Brno;3702;Brno-město
+35700;Zlatníky;582786;Brno;3702;Brno-město
+35718;Zlámanky;582786;Brno;3702;Brno-město
+35726;Zoubkova;582786;Brno;3702;Brno-město
+35734;Ztracená;582786;Brno;3702;Brno-město
+35742;Zubatého;582786;Brno;3702;Brno-město
+35751;Zvěřinova;582786;Brno;3702;Brno-město
+35769;Zvonařka;582786;Brno;3702;Brno-město
+35777;Zvonková;582786;Brno;3702;Brno-město
+35785;Žampachova;582786;Brno;3702;Brno-město
+35793;Žebětínek;582786;Brno;3702;Brno-město
+35807;Žebětínská;582786;Brno;3702;Brno-město
+35815;Železničářská;582786;Brno;3702;Brno-město
+35823;Železniční;582786;Brno;3702;Brno-město
+35831;Žerotínovo náměstí;582786;Brno;3702;Brno-město
+35840;Žilkova;582786;Brno;3702;Brno-město
+35858;Žitná;582786;Brno;3702;Brno-město
+35866;Živného;582786;Brno;3702;Brno-město
+35874;Životského;582786;Brno;3702;Brno-město
+35882;Žižkova;582786;Brno;3702;Brno-město
+35891;Žlíbek;582786;Brno;3702;Brno-město
+35904;Žlutý kopec;582786;Brno;3702;Brno-město
+35912;Barvířská;582786;Brno;3702;Brno-město
+35921;Bauerova;582786;Brno;3702;Brno-město
+35939;Bezejmenná;582786;Brno;3702;Brno-město
+35947;Bidláky;582786;Brno;3702;Brno-město
+35955;Bítešská;582786;Brno;3702;Brno-město
+35963;Bochořákova;582786;Brno;3702;Brno-město
+35971;U Červeného mlýna;582786;Brno;3702;Brno-město
+35980;Brandlova;582786;Brno;3702;Brno-město
+35998;Cihelní;582786;Brno;3702;Brno-město
+36005;Černovické nábřeží;582786;Brno;3702;Brno-město
+36013;U Kněží hory;582786;Brno;3702;Brno-město
+36021;Denisovy sady;582786;Brno;3702;Brno-město
+36030;Dlouhá;582786;Brno;3702;Brno-město
+36048;Drážní;582786;Brno;3702;Brno-město
+36056;U splavu;582786;Brno;3702;Brno-město
+36064;Dusíkova;582786;Brno;3702;Brno-město
+36081;Habří;582786;Brno;3702;Brno-město
+36099;Hájecká;582786;Brno;3702;Brno-město
+36102;Heršpická;582786;Brno;3702;Brno-město
+36111;Hořejší;582786;Brno;3702;Brno-město
+36129;Hostislavova;582786;Brno;3702;Brno-město
+36137;Hradilova;582786;Brno;3702;Brno-město
+36145;Hrázní;582786;Brno;3702;Brno-město
+36153;Jedovnická;582786;Brno;3702;Brno-město
+36161;Joukalova;582786;Brno;3702;Brno-město
+36170;K lesu;582786;Brno;3702;Brno-město
+36188;Vaňkovo náměstí;582786;Brno;3702;Brno-město
+36196;K Západi;582786;Brno;3702;Brno-město
+36200;Kamechy;582786;Brno;3702;Brno-město
+36218;Kamenice;582786;Brno;3702;Brno-město
+36234;Koperníkova;582786;Brno;3702;Brno-město
+36242;Ve vilkách;582786;Brno;3702;Brno-město
+36251;Kubešova;582786;Brno;3702;Brno-město
+36269;Vrbová;582786;Brno;3702;Brno-město
+36277;Lučiny;582786;Brno;3702;Brno-město
+36285;Mariánské údolí;582786;Brno;3702;Brno-město
+36293;Mečířova;582786;Brno;3702;Brno-město
+36307;Vrbovecká;582786;Brno;3702;Brno-město
+36315;Milénova;582786;Brno;3702;Brno-město
+36323;Na Jurance;582786;Brno;3702;Brno-město
+36331;V luzích;582786;Brno;3702;Brno-město
+36340;Wágnerova;582786;Brno;3702;Brno-město
+36358;Na kopcích;582786;Brno;3702;Brno-město
+36366;Na pískové cestě;582786;Brno;3702;Brno-město
+36374;Nad dědinou;582786;Brno;3702;Brno-město
+36382;Nad nádražím;582786;Brno;3702;Brno-město
+36391;Nad Pisárkami;582786;Brno;3702;Brno-město
+36404;Narcisová;582786;Brno;3702;Brno-město
+36412;Wainerovo náměstí;582786;Brno;3702;Brno-město
+36421;Násepní;582786;Brno;3702;Brno-město
+36439;V Nové čtvrti;582786;Brno;3702;Brno-město
+36447;Novolíšeňská;582786;Brno;3702;Brno-město
+36455;Oblouková;582786;Brno;3702;Brno-město
+36463;Obvodová;582786;Brno;3702;Brno-město
+36471;Odbojářská;582786;Brno;3702;Brno-město
+36480;Olšová;582786;Brno;3702;Brno-město
+36498;Ostravská;582786;Brno;3702;Brno-město
+36501;Ostružinová;582786;Brno;3702;Brno-město
+36510;Panenská;582786;Brno;3702;Brno-město
+36528;Pařezí;582786;Brno;3702;Brno-město
+36536;Páteřní;582786;Brno;3702;Brno-město
+36544;Peroutková;582786;Brno;3702;Brno-město
+36552;Petra Křivky;582786;Brno;3702;Brno-město
+36561;Petrská;582786;Brno;3702;Brno-město
+36579;Pivovarská;582786;Brno;3702;Brno-město
+36587;Plachty;582786;Brno;3702;Brno-město
+36595;Plevova;582786;Brno;3702;Brno-město
+36609;Plynárenská;582786;Brno;3702;Brno-město
+36617;Pod cestou;582786;Brno;3702;Brno-město
+36625;Pod hájkem;582786;Brno;3702;Brno-město
+36633;Pod Hády;582786;Brno;3702;Brno-město
+36641;Pod Komorou;582786;Brno;3702;Brno-město
+36650;Pod sídlištěm;582786;Brno;3702;Brno-město
+36668;Podbabská;582786;Brno;3702;Brno-město
+36676;Podlesná;582786;Brno;3702;Brno-město
+36684;Pohořelec;582786;Brno;3702;Brno-město
+36692;Porážka;582786;Brno;3702;Brno-město
+36706;Resslova;582786;Brno;3702;Brno-město
+36714;Rosická;582786;Brno;3702;Brno-město
+36722;Roviny;582786;Brno;3702;Brno-město
+36731;Rozmarýnová;582786;Brno;3702;Brno-město
+36749;Rybízová;582786;Brno;3702;Brno-město
+36757;Řadová;582786;Brno;3702;Brno-město
+36765;Říčky;582786;Brno;3702;Brno-město
+36773;Sedláčkova;582786;Brno;3702;Brno-město
+36781;Wilsonův les;582786;Brno;3702;Brno-město
+36790;Seifertova;582786;Brno;3702;Brno-město
+36803;Slunečná;582786;Brno;3702;Brno-město
+36811;Sojkova;582786;Brno;3702;Brno-město
+36820;Souběžná;582786;Brno;3702;Brno-město
+36838;Spálená;582786;Brno;3702;Brno-město
+36846;Spojka;582786;Brno;3702;Brno-město
+36854;Sportovní nábřeží;582786;Brno;3702;Brno-město
+36862;Stará dálnice;582786;Brno;3702;Brno-město
+36871;Strážní;582786;Brno;3702;Brno-město
+36889;Střelická;582786;Brno;3702;Brno-město
+36897;Svahová;582786;Brno;3702;Brno-město
+36901;Šemberova;582786;Brno;3702;Brno-město
+36919;Šelepova;582786;Brno;3702;Brno-město
+36927;Za klášterem;582786;Brno;3702;Brno-město
+36935;Špilberk;582786;Brno;3702;Brno-město
+36943;Štýřické nábřeží;582786;Brno;3702;Brno-město
+36951;Technická;582786;Brno;3702;Brno-město
+36960;Za kostelem;582786;Brno;3702;Brno-město
+36978;Zelinky;582786;Brno;3702;Brno-město
+36986;Tovární;582786;Brno;3702;Brno-město
+36994;Živanského;582786;Brno;3702;Brno-město
+37001;Traťová;582786;Brno;3702;Brno-město
+37010;Travní;582786;Brno;3702;Brno-město
+37028;třída Generála Píky;582786;Brno;3702;Brno-město
+37036;Tvrdonická;582786;Brno;3702;Brno-město
+37044;Tyršův sad;582786;Brno;3702;Brno-město
+37052;U Svitavy;582786;Brno;3702;Brno-město
+37061;U Antoníčka;582786;Brno;3702;Brno-město
+37079;U Křivé borovice;582786;Brno;3702;Brno-město
+37087;U Vránova mlýna;582786;Brno;3702;Brno-město
+37095;Údolí oddechu;582786;Brno;3702;Brno-město
+37109;Žlutá;582786;Brno;3702;Brno-město
+37117;V dolině;582786;Brno;3702;Brno-město
+37125;Valcha;582786;Brno;3702;Brno-město
+37133;Vedlejší;582786;Brno;3702;Brno-město
+37141;Veletržní;582786;Brno;3702;Brno-město
+37150;Velká Klajdovka;582786;Brno;3702;Brno-město
+37168;Věstonická;582786;Brno;3702;Brno-město
+37176;Výstaviště;582786;Brno;3702;Brno-město
+37184;Žabovřeská;582786;Brno;3702;Brno-město
+37192;Žarošická;582786;Brno;3702;Brno-město
+37206;Brigádnická;582786;Brno;3702;Brno-město
+37214;Křivého;582786;Brno;3702;Brno-město
+37222;Náhorní;582786;Brno;3702;Brno-město
+37231;Průhon;582786;Brno;3702;Brno-město
+660400;Achtelky;582786;Brno;3702;Brno-město
+660418;Chironova;582786;Brno;3702;Brno-město
+660426;Kolmá;582786;Brno;3702;Brno-město
+660434;Řečkovická;582786;Brno;3702;Brno-město
+660442;Aloise Havla;582786;Brno;3702;Brno-město
+660451;Cikánkova;582786;Brno;3702;Brno-město
+660469;Kamelova;582786;Brno;3702;Brno-město
+660477;Planinka;582786;Brno;3702;Brno-město
+660485;Pod vrškem;582786;Brno;3702;Brno-město
+660493;Zámezí;582786;Brno;3702;Brno-město
+660507;Šaracova;582786;Brno;3702;Brno-město
+660515;Štompil;582786;Brno;3702;Brno-město
+660523;Podnikatelská;582786;Brno;3702;Brno-město
+660540;Borkovcova;582786;Brno;3702;Brno-město
+660558;Drčkova;582786;Brno;3702;Brno-město
+660566;Leskauerova;582786;Brno;3702;Brno-město
+660574;Otiskova;582786;Brno;3702;Brno-město
+660582;Podruhova;582786;Brno;3702;Brno-město
+660591;Poslušného;582786;Brno;3702;Brno-město
+660604;bratří Sapáků;582786;Brno;3702;Brno-město
+660612;Zaoralova;582786;Brno;3702;Brno-město
+660621;K sídlišti;582786;Brno;3702;Brno-město
+660639;Zlínská;582786;Brno;3702;Brno-město
+660647;Rygle;582786;Brno;3702;Brno-město
+660655;Jetelová;582786;Brno;3702;Brno-město
+660663;Malinová;582786;Brno;3702;Brno-město
+660671;Bešůvka;582786;Brno;3702;Brno-město
+660680;Jalovcová;582786;Brno;3702;Brno-město
+660698;Jehličnatá;582786;Brno;3702;Brno-město
+660701;Listnatá;582786;Brno;3702;Brno-město
+660710;Lišejníková;582786;Brno;3702;Brno-město
+660728;Keřová;582786;Brno;3702;Brno-město
+660736;Za hřbitovem;582786;Brno;3702;Brno-město
+660744;Za Kněžským hájkem;582786;Brno;3702;Brno-město
+660752;Kubánky;582786;Brno;3702;Brno-město
+660761;V zahradách;582786;Brno;3702;Brno-město
+678970;Za kovárnou;582786;Brno;3702;Brno-město
+678996;U kaple;582786;Brno;3702;Brno-město
+679011;Majdalenky;582786;Brno;3702;Brno-město
+679038;Zdislavina;582786;Brno;3702;Brno-město
+679054;Houbařská;582786;Brno;3702;Brno-město
+679071;Bylinková;582786;Brno;3702;Brno-město
+679097;Podbělová;582786;Brno;3702;Brno-město
+679119;Letecká;582786;Brno;3702;Brno-město
+679135;Keltská;582786;Brno;3702;Brno-město
+679151;Ječmínkova;582786;Brno;3702;Brno-město
+679178;Slavomírova;582786;Brno;3702;Brno-město
+679194;Santiniho;582786;Brno;3702;Brno-město
+679216;Úlehlova;582786;Brno;3702;Brno-město
+679232;Calábkova;582786;Brno;3702;Brno-město
+679259;bratří Šmardů;582786;Brno;3702;Brno-město
+679275;Skandinávská;582786;Brno;3702;Brno-město
+687031;Adamcova;582786;Brno;3702;Brno-město
+687057;Čekanková;582786;Brno;3702;Brno-město
+691291;Žleb;582786;Brno;3702;Brno-město
+691305;Šikmá;582786;Brno;3702;Brno-město
+691313;Vycházková;582786;Brno;3702;Brno-město
+691321;Výholec;582786;Brno;3702;Brno-město
+691330;Chochola;582786;Brno;3702;Brno-město
+692999;Kníničská;582786;Brno;3702;Brno-město
+695149;Rozcestí;582786;Brno;3702;Brno-město
+695157;Krušinova;582786;Brno;3702;Brno-město
+695165;Midlochova;582786;Brno;3702;Brno-město
+695173;U luhu;582786;Brno;3702;Brno-město
+695181;Dolní louky;582786;Brno;3702;Brno-město
+695190;Fedrova;582786;Brno;3702;Brno-město
+695203;Weighartova;582786;Brno;3702;Brno-město
+695211;Ivanovických legionářů;582786;Brno;3702;Brno-město
+695220;Nad topoly;582786;Brno;3702;Brno-město
+695238;Úlehle;582786;Brno;3702;Brno-město
+695246;Generála Kadlece;582786;Brno;3702;Brno-město
+700002;Písníky;582786;Brno;3702;Brno-město
+700011;Závětrná;582786;Brno;3702;Brno-město
+700029;K Berce;582786;Brno;3702;Brno-město
+700037;Rebovka;582786;Brno;3702;Brno-město
+700045;Nad Lískami;582786;Brno;3702;Brno-město
+700053;Klarisky;582786;Brno;3702;Brno-město
+700061;Vomáčkova;582786;Brno;3702;Brno-město
+700070;Junácká;582786;Brno;3702;Brno-město
+710121;V Újezdech;582786;Brno;3702;Brno-město
+710130;Hrazdírova;582786;Brno;3702;Brno-město
+710148;Houškova;582786;Brno;3702;Brno-město
+710156;Ambrožova;582786;Brno;3702;Brno-město
+710164;Hluboček;582786;Brno;3702;Brno-město
+710172;Místní;582786;Brno;3702;Brno-město
+710181;Ve Vaňkovce;582786;Brno;3702;Brno-město
+710199;Průmyslová;582786;Brno;3702;Brno-město
+710202;Těžební;582786;Brno;3702;Brno-město
+710211;Švédské valy;582786;Brno;3702;Brno-město
+719838;V Kolíbkách;582786;Brno;3702;Brno-město
+719846;U Penzionu;582786;Brno;3702;Brno-město
+719854;Růženec;582786;Brno;3702;Brno-město
+719862;Malý Růženec;582786;Brno;3702;Brno-město
+719871;Klokočí;582786;Brno;3702;Brno-město
+719889;Velkomoravská;582786;Brno;3702;Brno-město
+719897;Bulínova;582786;Brno;3702;Brno-město
+719901;Akademická;582786;Brno;3702;Brno-město
+719919;Sevřená;582786;Brno;3702;Brno-město
+720283;Šikova;582786;Brno;3702;Brno-město
+720291;Edisonova;582786;Brno;3702;Brno-město
+720305;Novomoravanská;582786;Brno;3702;Brno-město
+720313;Blízká;582786;Brno;3702;Brno-město
+724955;Kobylnická;582786;Brno;3702;Brno-město
+724963;Ponětovická;582786;Brno;3702;Brno-město
+724971;Blažovická;582786;Brno;3702;Brno-město
+724980;Bučkova;582786;Brno;3702;Brno-město
+724998;Pod Červenou skálou;582786;Brno;3702;Brno-město
+725005;Porgesova;582786;Brno;3702;Brno-město
+731625;Tomečkova;582786;Brno;3702;Brno-město
+731633;Panská lícha;582786;Brno;3702;Brno-město
+731641;V Polích;582786;Brno;3702;Brno-město
+731650;Hřebíčková;582786;Brno;3702;Brno-město
+731668;Meduňková;582786;Brno;3702;Brno-město
+731676;Jižní svahy;582786;Brno;3702;Brno-město
+731684;Horynova;582786;Brno;3702;Brno-město
+731692;Hrabalova;582786;Brno;3702;Brno-město
+731706;Járy Cimrmana;582786;Brno;3702;Brno-město
+736368;Bartolomějská;582786;Brno;3702;Brno-město
+736376;Pilařova;582786;Brno;3702;Brno-město
+736384;Fojtíkova;582786;Brno;3702;Brno-město
+736392;Koreisova;582786;Brno;3702;Brno-město
+736406;Widmannova;582786;Brno;3702;Brno-město
+736414;Pěnkinova;582786;Brno;3702;Brno-město
+736422;Nenovická;582786;Brno;3702;Brno-město
+736431;Heřmánková;582786;Brno;3702;Brno-město
+736449;Letiště Brno-Tuřany;582786;Brno;3702;Brno-město
+736457;park Legionářů;582786;Brno;3702;Brno-město
+736465;Májový park;582786;Brno;3702;Brno-město
+736473;Těšanská;582786;Brno;3702;Brno-město
+736481;Slatinské náměstí;582786;Brno;3702;Brno-město
+736490;Kellnerova;582786;Brno;3702;Brno-město
+736503;Gusty Blahové;582786;Brno;3702;Brno-město
+756717;Holandská;582786;Brno;3702;Brno-město
+756725;Železná;582786;Brno;3702;Brno-město
+759520;K Nábřeží;582786;Brno;3702;Brno-město
+759538;Rozdrojovická;582786;Brno;3702;Brno-město
+759546;Oldřišky Keithové;582786;Brno;3702;Brno-město
+759554;Londýnské náměstí;582786;Brno;3702;Brno-město
+759562;park Richarda Federa;582786;Brno;3702;Brno-město
+759571;Révová;582786;Brno;3702;Brno-město
+765252;U Mostku;582786;Brno;3702;Brno-město
+765261;K Železnici;582786;Brno;3702;Brno-město
+765279;Hrázka;582786;Brno;3702;Brno-město
+765287;K Babě;582786;Brno;3702;Brno-město
+765295;K Rybníku;582786;Brno;3702;Brno-město
+765309;Ke Statku;582786;Brno;3702;Brno-město
+765317;Ericha Roučky;582786;Brno;3702;Brno-město
+765333;Sojčí;582786;Brno;3702;Brno-město
+768448;Studentská;582786;Brno;3702;Brno-město
+768456;Chudčická;582786;Brno;3702;Brno-město
+768464;Chvalovka;582786;Brno;3702;Brno-město
+768472;Hlinecká;582786;Brno;3702;Brno-město
+768481;Hvozdecká;582786;Brno;3702;Brno-město
+768499;Javůrecká;582786;Brno;3702;Brno-město
+768502;Kocanovská;582786;Brno;3702;Brno-město
+768511;Novodvorská;582786;Brno;3702;Brno-město
+768529;Říčanská;582786;Brno;3702;Brno-město
+768537;Sentická;582786;Brno;3702;Brno-město
+768545;Hradlová;582786;Brno;3702;Brno-město
+768553;K Povodí;582786;Brno;3702;Brno-město
+768561;Pěstitelská;582786;Brno;3702;Brno-město
+768588;Za Hasičkou;582786;Brno;3702;Brno-město
+768596;Jaroslava Foglara;582786;Brno;3702;Brno-město
+768600;Kavčí;582786;Brno;3702;Brno-město
+768618;Křepelčí;582786;Brno;3702;Brno-město
+768626;Přírodní;582786;Brno;3702;Brno-město
+768634;Vlaštovčí;582786;Brno;3702;Brno-město
+768642;Žabí;582786;Brno;3702;Brno-město
+772305;Jezerůvky;582786;Brno;3702;Brno-město
+772313;Kamenomlýnský most;582786;Brno;3702;Brno-město
+772321;Královopolský tunel;582786;Brno;3702;Brno-město
+772330;Leknínová;582786;Brno;3702;Brno-město
+772348;Metoděje Hoška;582786;Brno;3702;Brno-město
+772399;Nadační;582786;Brno;3702;Brno-město
+778401;Zderadova;582786;Brno;3702;Brno-město
+787736;Hamerláky;582786;Brno;3702;Brno-město
+787744;Nové Nivky;582786;Brno;3702;Brno-město
+787752;Palachovo náměstí;582786;Brno;3702;Brno-město
+787761;Peškova;582786;Brno;3702;Brno-město
+797448;Škrobárenská;582786;Brno;3702;Brno-město
+798061;Zelinkova;582786;Brno;3702;Brno-město
+799491;Sklenářská;582786;Brno;3702;Brno-město
+801020;Dělostřelecká;582786;Brno;3702;Brno-město
+801038;Firemní;582786;Brno;3702;Brno-město
+801046;Maršíkova;582786;Brno;3702;Brno-město
+801054;Moutnická;582786;Brno;3702;Brno-město
+801062;Na Sedláku;582786;Brno;3702;Brno-město
+801071;U Leskavy;582786;Brno;3702;Brno-město
+801089;Uhlířova;582786;Brno;3702;Brno-město
+804754;Medkova;582786;Brno;3702;Brno-město
+804762;Na Buble;582786;Brno;3702;Brno-město
+804771;Pluháčkova;582786;Brno;3702;Brno-město
+809721;Muškátová;582786;Brno;3702;Brno-město
+809730;Na Kopaninách;582786;Brno;3702;Brno-město
+810002;Za Parkem;582786;Brno;3702;Brno-město
+813516;Palcary;582786;Brno;3702;Brno-město
+815071;Honební;582786;Brno;3702;Brno-město
+815080;Jedounkova;582786;Brno;3702;Brno-město
+815098;Režná;582786;Brno;3702;Brno-město
+815101;U Křížku;582786;Brno;3702;Brno-město
+860891;Markůvky;582786;Brno;3702;Brno-město
+860913;Nad Přehradou;582786;Brno;3702;Brno-město
+860930;Ke Káčatům;582786;Brno;3702;Brno-město
+860956;Prašnice;582786;Brno;3702;Brno-město
+860972;Hliniště;582786;Brno;3702;Brno-město
+860999;Vlastimila Pecha;582786;Brno;3702;Brno-město
+861014;Pod Mezí;582786;Brno;3702;Brno-město
+900231;U Parkové dráhy;582786;Brno;3702;Brno-město
+922749;Pod Školou;582786;Brno;3702;Brno-město
+1155661;Ulička Václava Havla;582786;Brno;3702;Brno-město
+1155725;U Dubu;582786;Brno;3702;Brno-město
+1384520;Gustava Broma;582786;Brno;3702;Brno-město
+1384546;Jarmily Kurandové;582786;Brno;3702;Brno-město
+1384562;Vlasty Fialové;582786;Brno;3702;Brno-město
+1384589;Firkušného;582786;Brno;3702;Brno-město
+1384601;Moskalykova;582786;Brno;3702;Brno-město
+1384627;Menšíkova;582786;Brno;3702;Brno-město
+1384643;Podkomorská;582786;Brno;3702;Brno-město
+1384660;Kotoulky;582786;Brno;3702;Brno-město
+1384686;K Jelenici;582786;Brno;3702;Brno-město
+1384708;Čihadla;582786;Brno;3702;Brno-město
+1384724;K Jezerům;582786;Brno;3702;Brno-město
+1384741;Výmlatiště;582786;Brno;3702;Brno-město
+1384767;Kigginsova;582786;Brno;3702;Brno-město
+1384783;Brněnky;582786;Brno;3702;Brno-město
+1384805;Sedlička;582786;Brno;3702;Brno-město
+1384821;Nad Cihelnou;582786;Brno;3702;Brno-město
+1384848;Remízky;582786;Brno;3702;Brno-město
+1384864;K Lávce;582786;Brno;3702;Brno-město
+1588681;Manželů Suchých;582786;Brno;3702;Brno-město
+1588702;Bezinková;582786;Brno;3702;Brno-město
+1588729;park Elišky Suché;582786;Brno;3702;Brno-město
+1798227;Horní náměstí;582786;Brno;3702;Brno-město
+1798243;Karla Kryla;582786;Brno;3702;Brno-město
+1798260;Kyselkova;582786;Brno;3702;Brno-město
+2006499;Kalová;582786;Brno;3702;Brno-město
+2006511;Kumpoštova;582786;Brno;3702;Brno-město
+2006537;Miry Figarové;582786;Brno;3702;Brno-město
+2006758;Psotova;582786;Brno;3702;Brno-město
+2006774;Kožíkova;582786;Brno;3702;Brno-město
+2302411;Lažanská;582786;Brno;3702;Brno-město
+2302438;Na Rybízárně;582786;Brno;3702;Brno-město
+2302454;Bratří Ocelků;582786;Brno;3702;Brno-město
+2302471;Hapalův park;582786;Brno;3702;Brno-město
+2302608;Milonická;582786;Brno;3702;Brno-město
+2494035;Vlněna;582786;Brno;3702;Brno-město
+2494051;U Radaru;582786;Brno;3702;Brno-město
+2514702;ulička Kurta Gödela;582786;Brno;3702;Brno-město
+2514729;Ke Špici;582786;Brno;3702;Brno-město
+2514834;Grunty;582786;Brno;3702;Brno-město
+2514851;Aviatická;582786;Brno;3702;Brno-město
+2586410;Piňosova;582786;Brno;3702;Brno-město
+2586436;park Stanislava Krátkého;582786;Brno;3702;Brno-město
+2680831;náměstí Ludvíka Kundery;582786;Brno;3702;Brno-město
+2760398;Martinelliho;582786;Brno;3702;Brno-město
+2760746;Jerlínová;582786;Brno;3702;Brno-město
+2760762;Elišky Junkové;582786;Brno;3702;Brno-město
+2830388;Tomáše Krumla;582786;Brno;3702;Brno-město
+2830400;Ondřeje Sekory;582786;Brno;3702;Brno-město
+2830582;Slavomila Janáčka;582786;Brno;3702;Brno-město
+2830787;park Danuše Muzikářové;582786;Brno;3702;Brno-město
+2830809;parčík generála Miloše Knorra;582786;Brno;3702;Brno-město
+2830841;Hvězdička-park Eugena Horvátha;582786;Brno;3702;Brno-město
+3029867;Placzkova;582786;Brno;3702;Brno-město
+3031225;Fuchsova;582786;Brno;3702;Brno-město
+3031241;Ke Koupališti;582786;Brno;3702;Brno-město
+3031268;Jižní;582786;Brno;3702;Brno-město
+3031284;Morávkova;582786;Brno;3702;Brno-město
+3031306;park Mariacela;582786;Brno;3702;Brno-město

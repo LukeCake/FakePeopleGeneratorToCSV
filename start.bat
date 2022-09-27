@@ -1,3 +1,3 @@
 @echo off
-"./venv/bin/python.exe" "generatorrc.py"
+"./venv/bin/python.exe" "./fakepeoplegenerator.py"
 pause
