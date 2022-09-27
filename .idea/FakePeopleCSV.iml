@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/GeneratorRC/venv/lib/python" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/lib/python3.9/lib/python3.9" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.9 virtualenv at C:\Users\DEV110\PycharmProjects\RodneCisla\GeneratorRC\venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -3,6 +3,10 @@
 import random
 from _datetime import date
 import csv
+import string
+
+def random_char(char_num):
+     return ''.join(random.choice(string.ascii_letters) for _ in range(char_num))
 
 def divisible_random(a,b,n):
     if b-a < n:
@@ -24,7 +28,7 @@ yearnowint = yearnow.year
 counter = 0
 outputs = int(input('Kolik rodných čísel chceš generovat?: '))
 
-with open("FakePeople.csv", "w", encoding="utf-8") as f:
+with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
 
     while(counter < outputs):
 
@@ -51,16 +55,6 @@ with open("FakePeople.csv", "w", encoding="utf-8") as f:
                     if 0 < int(rcday) <= 28:
                         # create rndm woman ID = MM + 50
 
-                        if 24 <= (100 + int(yearnowint)-2000 - int(rcyear)) <= 99:
-                            probability = random.randint(1, 20)
-                            if probability <= 3:
-                                print("tento člověk získal při pravděpodobností 15% titul")
-                                pick_random("titulpredjmenem")
-                            else:
-                                f.write(";")
-                        else:
-                            f.write(";")
-
                         rndmsexlist = [0, 50]
                         if (random.choice(rndmsexlist)) != 0:
                             print("\nNÁHODNÁ Žena měním RČ z " + str(rc))
@@ -69,39 +63,59 @@ with open("FakePeople.csv", "w", encoding="utf-8") as f:
                             print("Podmínky OK, Zapisuji ŽENU do souboru - RČ: " + str(rc))
                             counter = counter + 1
 
+                            f.write(str(rc) + ";")
+
                             pick_random("czenamesfemale")
                             pick_random("czesurnamesfemale")
 
-                            if 22 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
+                            # if 22 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
+                            #     probability = random.randint(1, 20)
+                            #     if probability <= 1:
+                            #         print("tento člověk získal při pravděpodobností 5% titul za jménem")
+                            #         pick_random("titulzajmenem")
+                            #     else:
+                            #         f.write(";")
+                            # else:
+                            #     f.write(";")
+
+                            if 24 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
                                 probability = random.randint(1, 20)
-                                if probability <= 1:
-                                    print("tento člověk získal při pravděpodobností 5% titul za jménem")
-                                    pick_random("titulzajmenem")
+                                if probability <= 3:
+                                    print("tento člověk získal při pravděpodobností 15% titul")
+                                    pick_random("titulpredjmenem")
                                 else:
                                     f.write(";")
                             else:
                                 f.write(";")
 
-                            f.write(str(rc) + ";")
                         else:
                             print("\nPodmínky OK, Zapisuji MUŽE  do souboru - RČ: " + str(rc))
                             counter = counter + 1
 
+                            f.write(str(rc) + ";")
+
                             pick_random("czenamesmale")
                             pick_random("czesurnamesmale")
 
-
-                            if 22 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
+                            if 24 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
                                 probability = random.randint(1, 20)
-                                if probability <= 1:
-                                    print("tento člověk získal při pravděpodobností 5% titul za jménem")
-                                    pick_random("titulzajmenem")
+                                if probability <= 3:
+                                    print("tento člověk získal při pravděpodobností 15% titul")
+                                    pick_random("titulpredjmenem")
                                 else:
                                     f.write(";")
                             else:
                                 f.write(";")
 
-                            f.write(str(rc) + ";")
+                            # if 22 <= (100 + int(yearnowint) - 2000 - int(rcyear)) <= 99:
+                            #     probability = random.randint(1, 20)
+                            #     if probability <= 1:
+                            #         print("tento člověk získal při pravděpodobností 5% titul za jménem")
+                            #         pick_random("titulzajmenem")
+                            #     else:
+                            #         f.write(";")
+                            # else:
+                            #     f.write(";")
 
                         pick_random("pojistovna")
 
@@ -118,15 +132,29 @@ with open("FakePeople.csv", "w", encoding="utf-8") as f:
                             listofadress = (listofadress.split(";"))
 
                             #write
-                            f.write(listofadress[1] + ";")
+                            f.write(listofadress[1] + " ")
                             #rndm street number
                             f.write(str(random.randint(1, 40)) + ";")
+                            f.write(listofadress[5] + ";")
                             f.write(listofadress[3] + ";")
+                            f.write(str(random.randint(60200, 62800)) + ";")
+
+                            #random email
+                            f.write(random.choice(['CZ', 'SK']) + ";")
+
+                            # random email
+                            f.write(random_char(7) + "@gmail.com" + ";")
+
+                            # random telephone
+                            f.write(str(random.randint(720000000, 792000000)) + ";")
+
 
 
 
                         #enter za koncem řádku
                         f.write("\n")
 
-    print("Celkem vygenerováno RČ: " + str(counter))
+f.close()
+
+print("Celkem vygenerováno RČ: " + str(counter))
 print("Zápis proběhl do soubru ./seznamRc.txt")
