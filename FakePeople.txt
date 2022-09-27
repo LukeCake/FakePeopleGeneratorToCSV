@@ -1,0 +1,10 @@
+;Luboš;Brožek;1603254807;211;
+RNDr.;Silvester;Lukeš;7006095866;205;
+;David;Kuchař;7210238211;213;
+;Hannah;Charvátová;6761208339;228;
+;Igor;Diviš;6103010639;205;
+;Bronislav;Mayer;7302101400;111;
+;Luboš;Hrdlička;5601181113;111;
+;Tatiana;Bauerová;6961103419;205;
+;Jana;Trčková;1955037860;111;
+;Dorotea;Kleinová;9858183253;211;
