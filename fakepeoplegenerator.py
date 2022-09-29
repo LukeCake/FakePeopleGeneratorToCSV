@@ -2,10 +2,12 @@
 
 import random
 from _datetime import date
+from datetime import datetime, date
 import csv
 import string
 import sys
 import time
+
 
 def random_char(char_num):
      return ''.join(random.choice(string.ascii_letters) for _ in range(char_num))
@@ -33,7 +35,6 @@ mencounter = 0
 degreecounter = 0
 outputs = int(input('Kolik falešných lidí chceš generovat?: '))
 print('Working...')
-
 
 with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
 
@@ -66,7 +67,8 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
                         # create rndm woman ID = MM + 50
 
                         # print(counter)
-                        sys.stdout.write('\r' + str(counter+1))
+                        procenta = 100*(counter+1)/outputs
+                        sys.stdout.write('\r' + str(procenta) + ' %' + ' || ' + str(counter+1) + ' z ' + str(outputs))
                         sys.stdout.flush()
 
                         rndmsexlist = [0, 50]
@@ -176,6 +178,7 @@ with open('FakePeople.csv', 'w', encoding='windows-1250') as f:
             print("není delitelné" + str(rc))
 
 f.close()
+
 print("\nCelkem vygenerováno RČ: " + str(counter))
 print("žen: " + str(womancounter) + " z " + str(outputs) + ", mužů: " + str(mencounter) + " z " + str(outputs) + ", osob s titulem: " + str(degreecounter) + " z " + str(outputs))
 print("Zápis proběhl do soubru ./fakePeople.csv")
